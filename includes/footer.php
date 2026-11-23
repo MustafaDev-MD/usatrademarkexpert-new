@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 pe-lg-5">
-                <a href="index.php" class="foot-brand"><img src="assets/img/trademark-profs-logo-white.svg" alt="Trademark Profs" class="brand-logo brand-logo-foot"></a>
+                <a href="index.php" class="foot-brand"><img src="assets/img/usa-trademark-logo.png" alt="USA Trademark Expert" class="brand-logo brand-logo-foot"></a>
                 <p>Attorney-backed trademark registration, search, monitoring, and renewal — built to make protecting your brand simple and affordable.</p>
                 <div class="d-flex gap-2 mt-3">
                     <a href="#" class="soc" aria-label="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM.25 8h4.5v12.5H.25zM8 8h4.3v1.7h.06c.6-1.1 2.05-2.25 4.2-2.25 4.5 0 5.34 2.95 5.34 6.8v6.25h-4.5v-5.5c0-1.3-.02-3-1.85-3s-2.13 1.44-2.13 2.9v5.6H8z"/></svg></a>
@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="foot-bottom d-flex flex-wrap justify-content-between align-items-center gap-2">
-            <span>© <?= date('Y') ?> Trademark Profs, LLC. All rights reserved.</span>
+            <span>© <?= date('Y') ?> USA Trademark Expert, LLC. All rights reserved.</span>
             <span class="d-flex gap-3"><a class="foot-link d-inline p-0" href="privacy-policy.php">Privacy Policy</a><a class="foot-link d-inline p-0" href="terms.php">Terms &amp; Conditions</a></span>
         </div>
     </div>

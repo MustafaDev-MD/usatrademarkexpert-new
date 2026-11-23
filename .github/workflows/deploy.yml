@@ -1,0 +1,31 @@
+name: Deploy to Hostinger
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy to Hostinger
+        uses: appleboy/ssh-action@v1.2.2
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            set -e
+
+            cd ~/domains/limitless-palegoldenrod-salmon-80.hostingersite.com/public_html
+
+            echo "Fetching latest code..."
+            git fetch origin main
+
+            echo "Deploying latest code..."
+            git reset --hard origin/main
+
+            echo "Deployment successful!"

@@ -1906,6 +1906,10 @@ textarea.form-control {
     gap: .55rem;
     align-items: center;
     margin-bottom: 1rem;
+    width: fit-content;
+    padding: .35rem .55rem;
+    border-radius: 6px;
+    background: #fff;
 }
 
 .ms-footer p {

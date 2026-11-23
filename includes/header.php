@@ -20,7 +20,7 @@ $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
 
 <nav class="navbar navbar-expand-lg ms-nav sticky-top" id="mainNav">
     <div class="container">
-        <a class="ms-brand" href="index.php"><img src="assets/img/trademark-profs-logo-color.svg" alt="Trademark Profs" class="brand-logo"></a>
+        <a class="ms-brand" href="index.php"><img src="assets/img/usa-trademark-logo.png" alt="USA Trademark Expert" class="brand-logo"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMain" aria-controls="navMain" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navMain">
             <ul class="navbar-nav mx-auto align-items-lg-center">
