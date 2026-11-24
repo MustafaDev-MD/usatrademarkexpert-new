@@ -18,9 +18,18 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
           script: |
+            bash --noprofile --norc <<'DEPLOY'
             set -e
 
             cd ~/domains/limitless-palegoldenrod-salmon-80.hostingersite.com/public_html
+
+            if [ ! -d .git ]; then
+              echo "Initializing Git in public_html..."
+              git init
+              git remote add origin https://github.com/MustafaDev-MD/usatrademarkexpert-new.git
+            else
+              git remote set-url origin https://github.com/MustafaDev-MD/usatrademarkexpert-new.git
+            fi
 
             echo "Fetching latest code..."
             git fetch origin main
@@ -29,4 +38,5 @@ jobs:
             git reset --hard origin/main
 
             echo "Deployment successful!"
+            DEPLOY
  
