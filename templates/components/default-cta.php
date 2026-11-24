@@ -8,7 +8,7 @@
                 Protect your brand today
             </h2>
             <p>
-                Join thousands of founders who trust Trademark Profs to secure their trademarks. Start with a free search — no commitment, no card required.
+                Join thousands of founders who trust USA Trademark Expert to secure their trademarks. Start with a free search — no commitment, no card required.
             </p>
             <div class="d-flex flex-wrap gap-2 justify-content-center">
                 <a href="trademark-registration.php" class="btn btn-accent btn-lg btn-icon">

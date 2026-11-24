@@ -84,7 +84,7 @@ declare(strict_types=1);
                             1. Agreement to these terms
                         </h2>
                         <p class="mb-0">
-                            We appreciate your decision to use Trademark Profs for your trademark and intellectual property service needs. These Terms &amp; Conditions govern your use of our website and services. By accessing our website or engaging our services, you agree to comply with and be bound by these terms. If you do not agree, please refrain from using our website or services.
+                            We appreciate your decision to use USA Trademark Expert for your trademark and intellectual property service needs. These Terms &amp; Conditions govern your use of our website and services. By accessing our website or engaging our services, you agree to comply with and be bound by these terms. If you do not agree, please refrain from using our website or services.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -93,7 +93,7 @@ declare(strict_types=1);
                             2. Services
                         </h2>
                         <p class="mb-0">
-                            Trademark Profs provides trademark-related services, including assistance with preparing and filing trademark applications and responding to Office Actions, for a stated fee. While we offer structured and professional support, we do not guarantee the approval, registration, or outcome of any trademark application.
+                            USA Trademark Expert provides trademark-related services, including assistance with preparing and filing trademark applications and responding to Office Actions, for a stated fee. While we offer structured and professional support, we do not guarantee the approval, registration, or outcome of any trademark application.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -102,7 +102,7 @@ declare(strict_types=1);
                             3. Not a law firm
                         </h2>
                         <p class="mb-0">
-                            Trademark Profs is a self-help filing service and is not a law firm. Attorney services referenced on this website are provided by independently licensed attorneys. Your use of our services does not, by itself, create an attorney-client relationship with Trademark Profs, and communications are not protected by attorney-client privilege unless expressly established with a licensed attorney.
+                            USA Trademark Expert is a self-help filing service and is not a law firm. Attorney services referenced on this website are provided by independently licensed attorneys. Your use of our services does not, by itself, create an attorney-client relationship with USA Trademark Expert, and communications are not protected by attorney-client privilege unless expressly established with a licensed attorney.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -120,7 +120,7 @@ declare(strict_types=1);
                             5. Intellectual property
                         </h2>
                         <p class="mb-0">
-                            All rights, title, and interest in Trademark Profs, including our service marks, trade names, logos, content, and other intellectual property, remain our exclusive property. No use of our intellectual property is permitted without our prior written consent.
+                            All rights, title, and interest in USA Trademark Expert, including our service marks, trade names, logos, content, and other intellectual property, remain our exclusive property. No use of our intellectual property is permitted without our prior written consent.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -129,7 +129,7 @@ declare(strict_types=1);
                             6. User-submitted content
                         </h2>
                         <p class="mb-0">
-                            You may provide information or materials related to your trademark or intellectual property matters. By submitting such content, you confirm that you have the legal right to share it and that it does not infringe upon the rights of any third party. You grant Trademark Profs a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and distribute such content solely for the purpose of providing our services.
+                            You may provide information or materials related to your trademark or intellectual property matters. By submitting such content, you confirm that you have the legal right to share it and that it does not infringe upon the rights of any third party. You grant USA Trademark Expert a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and distribute such content solely for the purpose of providing our services.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -138,7 +138,7 @@ declare(strict_types=1);
                             7. Disclaimer of warranties
                         </h2>
                         <p class="mb-0">
-                            All services are provided on an &ldquo;as-is&rdquo; basis. Trademark Profs makes no representations or warranties regarding the accuracy, completeness, reliability, or specific outcomes of the services provided.
+                            All services are provided on an &ldquo;as-is&rdquo; basis. USA Trademark Expert makes no representations or warranties regarding the accuracy, completeness, reliability, or specific outcomes of the services provided.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -147,7 +147,7 @@ declare(strict_types=1);
                             8. Limitation of liability
                         </h2>
                         <p class="mb-0">
-                            Trademark Profs shall not be liable for any indirect, incidental, consequential, special, or punitive damages arising out of or related to your use of our website or services. Our total liability for any direct damages shall not exceed the amount you paid for the specific service giving rise to the claim.
+                            USA Trademark Expert shall not be liable for any indirect, incidental, consequential, special, or punitive damages arising out of or related to your use of our website or services. Our total liability for any direct damages shall not exceed the amount you paid for the specific service giving rise to the claim.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -156,7 +156,7 @@ declare(strict_types=1);
                             9. Indemnification
                         </h2>
                         <p class="mb-0">
-                            You agree to defend, indemnify, and hold harmless Trademark Profs and its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, or expenses arising from your use of our website or services or your violation of these Terms.
+                            You agree to defend, indemnify, and hold harmless USA Trademark Expert and its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, or expenses arising from your use of our website or services or your violation of these Terms.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -183,7 +183,7 @@ declare(strict_types=1);
                             12. Entire agreement
                         </h2>
                         <p class="mb-0">
-                            These Terms &amp; Conditions constitute the entire agreement between you and Trademark Profs regarding your use of our website and services and supersede all prior agreements or understandings.
+                            These Terms &amp; Conditions constitute the entire agreement between you and USA Trademark Expert regarding your use of our website and services and supersede all prior agreements or understandings.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -201,7 +201,7 @@ declare(strict_types=1);
                             14. Contact us
                         </h2>
                         <p class="mb-0">
-                            If you have questions regarding these Terms &amp; Conditions, please contact us at +1 (877) 646-1464 or email support@trademarkprofs.com.
+                            If you have questions regarding these Terms &amp; Conditions, please contact us at +1 (877) 646-1464 or email support@usatrademarkexpert.com.
                         </p>
                     </div>
                     <div class="mt-4 p-3 rounded-4 bg-soft">

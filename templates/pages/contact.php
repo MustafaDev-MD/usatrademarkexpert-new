@@ -59,8 +59,8 @@ declare(strict_types=1);
                         Email us
                     </h3>
                     <p class="mb-1">
-                        <a href="mailto:support@trademarkprofs.com" style="font-weight:600;">
-                            support@trademarkprofs.com
+                        <a href="mailto:support@usatrademarkexpert.com" style="font-weight:600;">
+                            support@usatrademarkexpert.com
                         </a>
                     </p>
                     <p class="form-note mb-0">
@@ -116,7 +116,7 @@ declare(strict_types=1);
                     </li>
                 </ul>
                 <div class="hero-photo mt-4 reveal" style="aspect-ratio:16/10;">
-                    <img src="assets/photo.php?p=businesswoman&w=800" alt="A Trademark Profs trademark specialist ready to help" loading="lazy">
+                    <img src="assets/photo.php?p=businesswoman&w=800" alt="A USA Trademark Expert trademark specialist ready to help" loading="lazy">
                 </div>
                 <div class="guarantee mt-4">
                     <span class="g-ic">

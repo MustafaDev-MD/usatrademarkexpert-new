@@ -1,4 +1,4 @@
-# Trademark Profs Website
+# USA Trademark Expert Website
 
 A PHP website for trademark registration, search, monitoring, renewals, copyright services, and related information. Public `.php` URLs are kept at the project root for compatibility, while page content, metadata, shared layout, and components are organized into dedicated directories.
 

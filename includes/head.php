@@ -20,7 +20,7 @@ require_once __DIR__ . '/site-config.php';
         <meta property="og:type" content="website">
         <meta property="og:title" content="<?= site_escape($pageTitle) ?>">
         <meta property="og:description" content="<?= site_escape($pageDescription) ?>">
-        <meta property="og:site_name" content="Trademark Profs">
+        <meta property="og:site_name" content="USA Trademark Expert">
         <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
         <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
         <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon-192.png">

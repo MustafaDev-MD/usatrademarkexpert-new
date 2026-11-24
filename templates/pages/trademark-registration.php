@@ -296,7 +296,7 @@ declare(strict_types=1);
                                     </div>
                                     <input type="hidden" name="data_package_title" value="Basic Package">
                                     <input type="hidden" name="data_package_price" value="35">
-                                    <input type="hidden" name="full_url" id="" value="https://www.trademarkprofs.com/trademark-registration.php">
+                                    <input type="hidden" name="full_url" id="" value="https://www.usatrademarkexpert.com/trademark-registration.php">
                                     <input type="hidden" name="msclkid" value="">
                                     <input type="hidden" name="gclid" value="">
                                     <input type="hidden" name="fbclid" value="">
@@ -365,8 +365,8 @@ declare(strict_types=1);
                     <!--<div class="form-success">-->
                     <!--  <div class="fs-ic"><svg width="38" height="38" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg></div>-->
                     <!--  <h3>Application received!</h3>-->
-                    <!--  <p class="mb-1">Thanks — a Trademark Profs specialist will email you within one business day to confirm your details and next steps.</p>-->
-                    <!--  <p class="form-note">Check your inbox for a confirmation from support@trademarkprofs.com.</p>-->
+                    <!--  <p class="mb-1">Thanks — a USA Trademark Expert specialist will email you within one business day to confirm your details and next steps.</p>-->
+                    <!--  <p class="form-note">Check your inbox for a confirmation from support@usatrademarkexpert.com.</p>-->
                     <!--  <a href="index.php" class="btn btn-primary mt-2">Back to Home</a>-->
                     <!--</div>-->
                 </form>
@@ -606,7 +606,7 @@ declare(strict_types=1);
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z"/>
                             <path d="M9 12l2 2 4-4"/>
                         </svg>
-                        Trademark Profs Guarantee
+                        USA Trademark Expert Guarantee
                     </div>
                     <div class="price-from">
                         Starting from
@@ -661,7 +661,7 @@ declare(strict_types=1);
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z"/>
                             <path d="M9 12l2 2 4-4"/>
                         </svg>
-                        Trademark Profs Guarantee
+                        USA Trademark Expert Guarantee
                     </div>
                     <div class="price-from">
                         Starting from
@@ -716,7 +716,7 @@ declare(strict_types=1);
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z"/>
                             <path d="M9 12l2 2 4-4"/>
                         </svg>
-                        Trademark Profs Guarantee
+                        USA Trademark Expert Guarantee
                     </div>
                     <div class="price-from">
                         Starting from
@@ -986,7 +986,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Incredible team! Trademark Profs&rsquo; expert guidance made the trademark registration process a breeze. If you&rsquo;re looking for trademark registration expertise, look no further!”
+                        “Incredible team! USA Trademark Expert&rsquo; expert guidance made the trademark registration process a breeze. If you&rsquo;re looking for trademark registration expertise, look no further!”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
@@ -1009,7 +1009,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “We were worried about trademark infringements, and that&rsquo;s when we stumbled upon Trademark Profs. Their thorough examination helped us find potential conflicts. I couldn&rsquo;t be happier!”
+                        “We were worried about trademark infringements, and that&rsquo;s when we stumbled upon USA Trademark Expert. Their thorough examination helped us find potential conflicts. I couldn&rsquo;t be happier!”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
@@ -1032,7 +1032,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Trademark Profs provided an exceptional experience, demonstrating professionalism and expertise throughout the consultation and registration process. Highly recommended!”
+                        “USA Trademark Expert provided an exceptional experience, demonstrating professionalism and expertise throughout the consultation and registration process. Highly recommended!”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
@@ -1055,7 +1055,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Trademark Profs has done an exceptional job! Their team expertly navigated complex regulations, addressing concerns through clear communication and proactive measures for a successful resolution.”
+                        “USA Trademark Expert has done an exceptional job! Their team expertly navigated complex regulations, addressing concerns through clear communication and proactive measures for a successful resolution.”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
@@ -1078,7 +1078,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “I had a great experience with Trademark Profs. Their timely alerts and comprehensive reports provided valuable insights, allowing proactive protection against potential threats.”
+                        “I had a great experience with USA Trademark Expert. Their timely alerts and comprehensive reports provided valuable insights, allowing proactive protection against potential threats.”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
@@ -1101,7 +1101,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Trademark Profs has been a game-changer for our business. Their expertise and guidance have helped us navigate the complex world of trademark registration with ease. We highly recommend their services to anyone looking to protect their brand.”
+                        “USA Trademark Expert has been a game-changer for our business. Their expertise and guidance have helped us navigate the complex world of trademark registration with ease. We highly recommend their services to anyone looking to protect their brand.”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">

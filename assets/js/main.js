@@ -1,5 +1,5 @@
 /* ============================================================
-   Trademark Profs — interactions (jQuery 3.5.1)
+   USA Trademark Expert — interactions (jQuery 3.5.1)
    ============================================================ */
 (function($) {
     "use strict";

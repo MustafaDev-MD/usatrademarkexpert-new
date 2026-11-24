@@ -32,7 +32,7 @@ declare(strict_types=1);
                     , with confidence
                 </h1>
                 <p class="lede">
-                    A U.S. trademark stops at the U.S. border. If you sell, source, or plan to expand internationally, Trademark Profs helps you protect your brand in 130+ countries through the Madrid Protocol and direct filings.
+                    A U.S. trademark stops at the U.S. border. If you sell, source, or plan to expand internationally, USA Trademark Expert helps you protect your brand in 130+ countries through the Madrid Protocol and direct filings.
                 </p>
                 <div class="d-flex flex-wrap gap-4 mt-3">
                     <span class="d-inline-flex align-items-center gap-2">
@@ -466,7 +466,7 @@ declare(strict_types=1);
                                 <input type="hidden" name="data_pkg_title" value="Basic Package">
                                 <input type="hidden" name="data_pkg_price" value="35">
                                 <!--<input type="hidden" name="leadsource" value="lp">-->
-                                <input type="hidden" name="full_url" id="" value="https://www.trademarkprofs.com/international-registration.php">
+                                <input type="hidden" name="full_url" id="" value="https://www.usatrademarkexpert.com/international-registration.php">
                                 <input type="hidden" name="msclkid" value="">
                                 <input type="hidden" name="gclid" value="">
                                 <input type="hidden" name="fbclid" value="">

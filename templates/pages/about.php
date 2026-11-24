@@ -25,7 +25,7 @@ declare(strict_types=1);
                     We make protecting your brand feel simple
                 </h1>
                 <p class="lede">
-                    Trademark Profs was built on a simple belief: every founder deserves the same brand protection the big companies get — without the intimidating price tag or the legal jargon.
+                    USA Trademark Expert was built on a simple belief: every founder deserves the same brand protection the big companies get — without the intimidating price tag or the legal jargon.
                 </p>
             </div>
             <div class="col-lg-5">
@@ -96,7 +96,7 @@ declare(strict_types=1);
                     When our founder tried to trademark her first company, she faced a choice between confusing DIY forms and a law firm quoting thousands of dollars. Neither felt right for a small business just getting started.
                 </p>
                 <p>
-                    So we built the option we wished existed: a guided, transparent process backed by real trademark attorneys, at a price that makes sense. Today, Trademark Profs has helped over twelve thousand founders, creators, and growing companies secure the brands they've worked so hard to build.
+                    So we built the option we wished existed: a guided, transparent process backed by real trademark attorneys, at a price that makes sense. Today, USA Trademark Expert has helped over twelve thousand founders, creators, and growing companies secure the brands they've worked so hard to build.
                 </p>
                 <a href="trademark-registration.php" class="btn btn-primary btn-icon mt-2">
                     Start your trademark
@@ -276,7 +276,7 @@ declare(strict_types=1);
                 Leadership
             </span>
             <h2 class="section-title">
-                The people behind Trademark Profs
+                The people behind USA Trademark Expert
             </h2>
             <p class="section-lede mx-auto">
                 A team of trademark attorneys, brand specialists, and product builders.

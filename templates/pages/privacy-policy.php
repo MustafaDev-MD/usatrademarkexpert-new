@@ -69,7 +69,7 @@ declare(strict_types=1);
                             1. Our commitment to your privacy
                         </h2>
                         <p class="mb-0">
-                            Thank you for choosing Trademark Profs for your trademark and intellectual property service needs. We respect your privacy and are dedicated to protecting your personal information. This Privacy Policy explains how we collect, use, and share information when you visit our website or use our services. By accessing our website or engaging our services, you agree to the practices described in this policy.
+                            Thank you for choosing USA Trademark Expert for your trademark and intellectual property service needs. We respect your privacy and are dedicated to protecting your personal information. This Privacy Policy explains how we collect, use, and share information when you visit our website or use our services. By accessing our website or engaging our services, you agree to the practices described in this policy.
                         </p>
                     </div>
                     <hr class="divider my-4">
@@ -141,7 +141,7 @@ declare(strict_types=1);
                             9. Contact us
                         </h2>
                         <p class="mb-0">
-                            If you have questions regarding this Privacy Policy or how your information is handled, please contact us at support@trademarkprofs.com or call +1 (877) 646-1464.
+                            If you have questions regarding this Privacy Policy or how your information is handled, please contact us at support@usatrademarkexpert.com or call +1 (877) 646-1464.
                         </p>
                     </div>
                     <div class="mt-4 p-3 rounded-4 bg-soft">

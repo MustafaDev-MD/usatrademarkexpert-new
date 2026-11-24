@@ -553,7 +553,7 @@ declare(strict_types=1);
                             <path d="M9 20h6" />
                             <path d="M10 16h4" />
                         </svg>
-                        Why Trademark Profs
+                        Why USA Trademark Expert
                     </span>
                     <h2 class="section-title">
                         The confidence of a law firm, the ease of software
@@ -668,7 +668,7 @@ declare(strict_types=1);
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z" />
                             <path d="M9 12l2 2 4-4" />
                         </svg>
-                        Trademark Profs Guarantee
+                        USA Trademark Expert Guarantee
                     </div>
                     <div class="price-from">
                         Starting from
@@ -715,7 +715,7 @@ declare(strict_types=1);
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z" />
                             <path d="M9 12l2 2 4-4" />
                         </svg>
-                        Trademark Profs Guarantee
+                        USA Trademark Expert Guarantee
                     </div>
                     <div class="price-from">
                         Starting from
@@ -823,7 +823,7 @@ declare(strict_types=1);
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z" />
                             <path d="M9 12l2 2 4-4" />
                         </svg>
-                        Trademark Profs Guarantee
+                        USA Trademark Expert Guarantee
                     </div>
                     <div class="price-from">
                         Starting from
@@ -946,7 +946,7 @@ declare(strict_types=1);
                 The difference
             </span>
             <h2 class="section-title">
-                What makes Trademark Profs stand out
+                What makes USA Trademark Expert stand out
             </h2>
             <p class="section-lede mx-auto">
                 See how our approach compares with the typical DIY or budget filing service.
@@ -963,7 +963,7 @@ declare(strict_types=1);
                             Typical filing service
                         </th>
                         <th class="center">
-                            Trademark Profs
+                            USA Trademark Expert
                         </th>
                     </tr>
                 </thead>
@@ -1131,7 +1131,7 @@ declare(strict_types=1);
             </div>
             <div class="col-lg-5 reveal d1">
                 <p class="section-lede">
-                    From your first search to lifelong protection, Trademark Profs covers every stage of the trademark lifecycle.
+                    From your first search to lifelong protection, USA Trademark Expert covers every stage of the trademark lifecycle.
                 </p>
             </div>
         </div>
@@ -1349,7 +1349,7 @@ declare(strict_types=1);
         <div class="row g-4 g-lg-5 align-items-center mb-5 reveal">
             <div class="col-lg-5">
                 <div class="hero-photo" style="aspect-ratio:4/3.2;">
-                    <img src="assets/photo.php?p=founder-c&w=800" alt="Sofia Lin, Trademark Profs customer" loading="lazy">
+                    <img src="assets/photo.php?p=founder-c&w=800" alt="Sofia Lin, USA Trademark Expert customer" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -1357,7 +1357,7 @@ declare(strict_types=1);
                     ★★★★★
                 </div>
                 <p class="section-title" style="font-size:clamp(1.45rem,2.4vw,2.05rem);font-weight:500;line-height:1.32;margin:.5rem 0 1.2rem;">
-                    “Trademark Profs felt like having a trademark attorney on speed dial. They protected the brand I spent years building — and made it feel effortless.”
+                    “USA Trademark Expert felt like having a trademark attorney on speed dial. They protected the brand I spent years building — and made it feel effortless.”
                 </p>
                 <div class="tst-who">
                     <span class="tst-avatar">
@@ -1381,7 +1381,7 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Trademark Profs made trademarking painless. The attorney caught a conflict I never would have spotted and saved my filing fee.”
+                        “USA Trademark Expert made trademarking painless. The attorney caught a conflict I never would have spotted and saved my filing fee.”
                     </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
