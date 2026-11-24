@@ -1,4 +1,6 @@
 <?php
+/** @var string $pageName */
+
 require_once __DIR__ . '/site-config.php';
 $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
 ?>

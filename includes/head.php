@@ -1,4 +1,11 @@
-<?php require_once __DIR__ . '/site-config.php'; ?>
+<?php
+/** @var string $pageTitle */
+/** @var string $pageDescription */
+/** @var string $pageCanonical */
+/** @var array<string, mixed> $pageStructuredData */
+
+require_once __DIR__ . '/site-config.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
