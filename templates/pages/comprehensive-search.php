@@ -25,10 +25,10 @@ declare(strict_types=1);
                     Comprehensive Search
                 </span>
                 <h1>
-                    Discover and Analyze with a Comprehensive Search
+                    Comprehensive Trademark Search
                 </h1>
                 <p class="lede">
-                    We offer comprehensive trademark search services to protect your business from potential legal issues.
+                    Search federal, state, and common law registries to avoid costly USPTO refusals.
                 </p>
                 <div class="hero-cta-row mt-4">
                     <a href="trademark-registration.php" class="btn btn-primary btn-lg btn-icon">
@@ -52,6 +52,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Stats ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="stat-band reveal">
@@ -100,8 +101,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Search process ============ -->
-<section class="section pt-0">
+<section class="section">
     <div class="container">
         <div class="row g-5 align-items-center">
             <div class="col-lg-6">
@@ -118,11 +120,11 @@ declare(strict_types=1);
                         The process
                     </span>
                     <h2 class="section-title">
-                        Our Comprehensive Search Process
+                        Why Is Active Brand Monitoring Essential?
                     </h2>
                     <p class="section-lede mb-1">
-                        Our team of experts conducts a thorough trademark search to ensure your chosen mark is available.
-                    </p>
+                    Millions of active marks exist nationwide. A clearance audit ensures your brand is legally available before investing in registration.
+                </p>
                 </div>
                 <div class="howto reveal d1">
                     <div class="howto-step">
@@ -131,10 +133,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Fill Out the Details
+                                Protect Non-Refundable Fees
                             </h4>
                             <p>
-                                The first step in our comprehensive trademark search process is to gather essential information about your brand.
+                                USPTO fees are non-refundable. Searching upfront avoids wasting money on unavailable names.
                             </p>
                         </div>
                     </div>
@@ -144,10 +146,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Conduct Comprehensive Search
+                                Uncover Common Law Risks
                             </h4>
                             <p>
-                                Our experienced team will conduct a comprehensive trademark search after you submit the form.
+                                Unregistered brands hold legal rights. Deep scans flag commercial uses to prevent disputes.
                             </p>
                         </div>
                     </div>
@@ -157,10 +159,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Application Filing
+                                Prevent Confusion Refusals
                             </h4>
                             <p>
-                                After ensuring your brand&rsquo;s availability, our expert team will guide you through filing a trademark application.
+                                The USPTO rejects marks that sound or look similar to existing ones. Searching early lets you adjust before filing.
                             </p>
                         </div>
                     </div>
@@ -195,11 +197,11 @@ declare(strict_types=1);
                 Why it matters
             </span>
             <h2 class="section-title">
-                Why You Need to Search Your Trademark
-            </h2>
+                        Uncover Hidden Legal Conflicts
+                    </h2>
             <p class="section-lede mx-auto">
-                Performing a trademark search is an essential step to safeguard your business from any possible legal issues that may arise.
-            </p>
+                    A standard search engine query is not enough to protect your brand. Our comprehensive clearance audit scans federal USPTO records, state business filings, domain registries, and common law commercial usage to identify phonetic, visual, or conceptual overlaps that could derail your application.
+                </p>
         </div>
         <div class="row g-4">
             <div class="col-md-4">
@@ -273,17 +275,17 @@ declare(strict_types=1);
                 Packages
             </span>
             <h2 class="section-title">
-                Affordable Comprehensive Search Pricing Plans
-            </h2>
+                    Clear Packages, Complete Protection
+                </h2>
         </div>
         <div class="row g-4 align-items-stretch">
             <div class="col-lg-4">
                 <div class="price-card reveal ">
                     <div class="price-name">
-                        Federal &amp; State Search
+                        Basic Package
                     </div>
                     <p class="price-desc">
-                        Identify possible clashes in the trademark databases.
+                        Straightforward filing tools to get your application officially submitted.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -296,31 +298,23 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $149
+                        $49
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Trademark search
+                                Federal Database Direct-Hit Search
                             </strong>
                             <span>
-                                The federal search examines trademark registrations for similar names, logos, or slogans.
+                                We scan the USPTO registry to check your mark’s availability and flag immediate conflicts.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                State Search
+                                Custom Legal Classification
                             </strong>
                             <span>
-                                The state search function applies to all 50 states.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Detailed online report
-                            </strong>
-                            <span>
-                                It identifies all relevant matches and provides the necessary information to plan your next move.
+                                Our team reviews the USPTO ID manual to precisely categorize your goods and services for maximum protection.
                             </span>
                         </li>
                     </ul>
@@ -332,10 +326,10 @@ declare(strict_types=1);
             <div class="col-lg-4">
                 <div class="price-card reveal featured">
                     <div class="price-name">
-                        Federal, State &amp; Common Law
+                        Standard Package
                     </div>
                     <p class="price-desc">
-                        Conduct trademark searches for maximum protection.
+                        Step up to dedicated legal guidance and brand enforcement tools.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -348,42 +342,26 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $299
+                        $199
                     </div>
                     <div class="price-gov">
                         Includes everything from the Federal and State Search plus:
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Corporate Name Search
+                                1-on-1 Attorney Consultation
                             </strong>
                             <span>
-                                Conducting an exhaustive search across all 50 states to find any pre-existing corporate names.
+                                Speak directly with a licensed trademark lawyer in a focused 15-minute session to resolve specific questions and outline your filing strategy.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Corporate Directories
+                                Cease &amp; Desist Safeguards
                             </strong>
                             <span>
-                                We search corporate directories for entries similar to your mark.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Common Law
-                            </strong>
-                            <span>
-                                Our proprietary online search can determine if your name is protected under common law trademarks.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Domain Names
-                            </strong>
-                            <span>
-                                Search for your name across all top-level domain names to check for online use.
+                                Enforceable legal documents to act quickly against brand infringement.
                             </span>
                         </li>
                     </ul>
@@ -395,10 +373,10 @@ declare(strict_types=1);
             <div class="col-lg-4">
                 <div class="price-card reveal ">
                     <div class="price-name">
-                        Global Search
+                        Premium Package
                     </div>
                     <p class="price-desc">
-                        Discover new opportunities in international markets.
+                        Priority rush filing paired with continuous brand monitoring.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -411,29 +389,35 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $429
+                        $349
                     </div>
                     <div class="price-gov">
                         Includes everything from the Federal, State, and Common Law Search plus:
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Global Search
+                                1-Hour Attorney Session
                             </strong>
                             <span>
-                                Our team conducts searches in various international jurisdictions to identify any trademarks that are either pending or registered.
+                                In-depth legal planning with a trademark lawyer.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                The European Community
+                                48-Hour Priority Processing
                             </strong>
+                            <span>
+                                Fast-track filing to secure your official USPTO date immediately.
+                            </span>
                         </li>
                         <li>
                             <strong>
-                                World Intellectual Property Organization (WIPO)
+                                Infringement Alerts
                             </strong>
+                            <span>
+                                Ongoing monitoring to protect your registered mark from copycats.
+                            </span>
                         </li>
                     </ul>
                     <a href="trademark-registration.php" class="btn btn-outline-navy w-100">
@@ -479,61 +463,61 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#cf0">
-                                What sets a comprehensive search service apart from standard search engines?
-                            </button>
+                                    What is a comprehensive trademark clearance search?
+                                </button>
                         </h3>
                         <div id="cf0" class="accordion-collapse collapse show" data-bs-parent="#csFaq">
                             <div class="accordion-body">
-                                Comprehensive search services surpass traditional keyword-based searches by utilizing advanced algorithms and filters for comprehensive and nuanced results from a wider range of data sources.
-                            </div>
+                                    <p>A comprehensive clearance search is an exhaustive audit of federal, state, domain, and common law databases designed to identify potential legal conflicts before you submit your trademark application to the USPTO.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cf1">
-                                How does a comprehensive search service ensure data accuracy?
-                            </button>
+                                    Why isn't a basic search engine query or free USPTO search enough?
+                                </button>
                         </h3>
                         <div id="cf1" class="accordion-collapse collapse " data-bs-parent="#csFaq">
                             <div class="accordion-body">
-                                Our comprehensive search service uses advanced validation processes and cross-referencing algorithms to ensure data accuracy. Regular updates and verification mechanisms maintain information reliability.
-                            </div>
+                                    <p>Basic searches usually only check for exact name matches. A comprehensive search evaluates phonetic similarities, alternative spellings, visual designs, translated meanings, and unregistered common law commercial uses.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cf2">
-                                How frequently is the data updated in the comprehensive search service?
-                            </button>
+                                    What databases are included in a multi-tier search?
+                                </button>
                         </h3>
                         <div id="cf2" class="accordion-collapse collapse " data-bs-parent="#csFaq">
                             <div class="accordion-body">
-                                We prioritize keeping our data up-to-date by regularly updating our comprehensive search service, ensuring that users have access to the most relevant information available.
-                            </div>
+                                    <p>Our search examines active and pending federal USPTO registrations, all 50 U.S. state corporate registries, international domain name filings, digital marketplace handles, and broad common law commercial directories.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cf3">
-                                How does the comprehensive search service handle privacy and security concerns?
-                            </button>
+                                    What is the difference between a "knockout" search and a comprehensive search?
+                                </button>
                         </h3>
                         <div id="cf3" class="accordion-collapse collapse " data-bs-parent="#csFaq">
                             <div class="accordion-body">
-                                We take privacy seriously and comply with industry-standard security protocols. Our comprehensive search service safeguards user data with encryption and secure access controls.
-                            </div>
+                                    <p>A "knockout" search is a preliminary check for identical direct matches in the USPTO database. A comprehensive search goes much deeper, uncovering subtle phonetic, conceptual, and common law conflicts across multiple sources.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cf4">
-                                How does the comprehensive search service handle large datasets?
-                            </button>
+                                    What does "Likelihood of Confusion" mean in a search report?
+                                </button>
                         </h3>
                         <div id="cf4" class="accordion-collapse collapse " data-bs-parent="#csFaq">
                             <div class="accordion-body">
-                                Our search service uses advanced indexing and parallel processing to efficiently handle large datasets, ensuring quick retrieval and analysis of information.
-                            </div>
+                                    <p>It refers to the primary legal standard used by the USPTO. If two trademarks sound, look, or mean something similar and are used in related industries, consumers might be confused—leading to application refusal.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -553,8 +537,8 @@ declare(strict_types=1);
                 Testimonials
             </span>
             <h2 class="section-title">
-                What Our Clients Have to Say
-            </h2>
+                    Detailed Insights Before You File
+                </h2>
             <p class="section-lede mx-auto">
                 We are proud to receive positive feedback, which reflects our commitment to excellence.
             </p>
@@ -566,19 +550,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Incredible team! USA Trademark Expert&rsquo; expert guidance made the trademark registration process a breeze. If you&rsquo;re looking for trademark registration expertise, look no further!”
-                    </p>
+                            The clearance report uncovered a registered mark with a similar pronunciation that we completely missed. They saved us thousands in non-refundable USPTO filing fees!
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             JS
                         </span>
                         <div>
                             <div class="tst-name">
-                                Jenny Smith
-                            </div>
+                            B. Aris
+                        </div>
                             <div class="tst-role">
-                                CEO of Diversion
-                            </div>
+                            Brand Strategy Lead
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -589,19 +573,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “We were worried about trademark infringements, and that&rsquo;s when we stumbled upon USA Trademark Expert. Their thorough examination helped us find potential conflicts. I couldn&rsquo;t be happier!”
-                    </p>
+                            Comprehensive and eye-opening! They flagged an unregistered common law user in our industry, allowing us to tweak our logo slightly before submitting our application.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             SB
                         </span>
                         <div>
                             <div class="tst-name">
-                                Simon Blake
-                            </div>
+                            L. Hallowell
+                        </div>
                             <div class="tst-role">
-                                Manager at Pixel City
-                            </div>
+                            E-Commerce Founder
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -612,19 +596,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert provided an exceptional experience, demonstrating professionalism and expertise throughout the consultation and registration process. Highly recommended!”
-                    </p>
+                            Their multi-tier report gave us a clear risk score and actionable legal recommendations. We applied to the USPTO with total confidence and got approved on the first try.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             EL
                         </span>
                         <div>
                             <div class="tst-name">
-                                Eleanor Louis
-                            </div>
+                            K. Nguyen
+                        </div>
                             <div class="tst-role">
-                                Team Lead at Infinite Tech
-                            </div>
+                            Tech Entrepreneur
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -635,19 +619,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert has done an exceptional job! Their team expertly navigated complex regulations, addressing concerns through clear communication and proactive measures for a successful resolution.”
-                    </p>
+                            The clearance report uncovered a registered mark with a similar pronunciation that we completely missed. They saved us thousands in non-refundable USPTO filing fees!
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             PR
                         </span>
                         <div>
                             <div class="tst-name">
-                                Peter Richard
-                            </div>
+                            B. Aris
+                        </div>
                             <div class="tst-role">
-                                Owner of Southern Sea
-                            </div>
+                            Brand Strategy Lead
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -658,19 +642,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “I had a great experience with USA Trademark Expert. Their timely alerts and comprehensive reports provided valuable insights, allowing proactive protection against potential threats.”
-                    </p>
+                            Comprehensive and eye-opening! They flagged an unregistered common law user in our industry, allowing us to tweak our logo slightly before submitting our application.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             MG
                         </span>
                         <div>
                             <div class="tst-name">
-                                Melissa Gabrielle
-                            </div>
+                            L. Hallowell
+                        </div>
                             <div class="tst-role">
-                                CEO of Hive Studio
-                            </div>
+                            E-Commerce Founder
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -679,6 +663,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Request form ============ -->
+<?php if (false): ?>
 <section class="section bg-soft" id="request">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -824,7 +809,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Closing CTA ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="cta-band reveal">
@@ -844,4 +831,5 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php endif; ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>

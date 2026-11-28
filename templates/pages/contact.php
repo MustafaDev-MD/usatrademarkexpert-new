@@ -17,10 +17,10 @@ declare(strict_types=1);
             Contact us
         </span>
         <h1>
-            Let's protect your brand together
+            Start Protecting Your Brand Today
         </h1>
         <p class="lede mx-auto">
-            Questions before you file? Need a quote? Our specialists are here to help — no pressure, no obligation.
+            Connect with our team to request a clearance search, start a new federal filing, or check the status of your pending application.
         </p>
     </div>
 </section>
@@ -30,50 +30,43 @@ declare(strict_types=1);
             <div class="col-md-4">
                 <div class="card-ms text-center reveal d1">
                     <div class="card-ic mx-auto">
-                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <path d="M4 4h4l2 5-2.5 1.5a12 12 0 0 0 6 6L15 14l5 2v4a1 1 0 0 1-1 1A16 16 0 0 1 3 5a1 1 0 0 1 1-1z"/>
-                        </svg>
+                        <img src="assets/img/usatrademark-old/contact/phone.svg" alt="Phone contact" width="26" height="26">
                     </div>
                     <h3>
                         Call us
                     </h3>
                     <p class="mb-1">
-                        <a href="tel:+18776461464" style="font-weight:600;">
-                            +1 (877) 646-1464
+                        <a href="tel:+14243672040" style="font-weight:600;">
+                            +1 (424) 367-2040
                         </a>
                     </p>
                     <p class="form-note mb-0">
-                        Mon–Fri, 8am–8pm ET
+                        Mon–Fri, 9AM–6PM PST
                     </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card-ms text-center reveal d2">
                     <div class="card-ic mx-auto">
-                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <rect x="3" y="5" width="18" height="14" rx="2"/>
-                            <path d="M3 7l9 6 9-6"/>
-                        </svg>
+                        <img src="assets/img/usatrademark-old/contact/email.svg" alt="Email contact" width="26" height="26">
                     </div>
                     <h3>
                         Email us
                     </h3>
                     <p class="mb-1">
-                        <a href="mailto:support@usatrademarkexpert.com" style="font-weight:600;">
-                            support@usatrademarkexpert.com
+                        <a href="mailto:legal@usatrademarkexpert.com" style="font-weight:600;">
+                            legal@usatrademarkexpert.com
                         </a>
                     </p>
                     <p class="form-note mb-0">
-                        We reply within 1 business day
+                        Email us anytime
                     </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card-ms text-center reveal d3">
                     <div class="card-ic mx-auto">
-                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <path d="M21 12a8 8 0 0 1-11.5 7.2L4 21l1.8-5.5A8 8 0 1 1 21 12z"/>
-                        </svg>
+                        <img src="assets/img/usatrademark-old/contact/live-chat.svg" alt="Live chat" width="26" height="26">
                     </div>
                     <h3>
                         Live chat
@@ -84,7 +77,7 @@ declare(strict_types=1);
                         </a>
                     </p>
                     <p class="form-note mb-0">
-                        Mon–Fri, 8am–8pm ET
+                        Mon–Fri, 9AM–6PM PST
                     </p>
                 </div>
             </div>
@@ -99,10 +92,10 @@ declare(strict_types=1);
                     Send a message
                 </span>
                 <h2 class="section-title">
-                    Book a free consultation
+                    Send a message
                 </h2>
                 <p class="section-lede">
-                    Tell us a little about your brand and what you need. A trademark specialist will get back to you within one business day.
+                    Tell us about your brand and the support you need. You can also reach us at 3550 Watt Ave, Sacramento, CA 95821.
                 </p>
                 <ul class="ticklist mt-3">
                     <li>

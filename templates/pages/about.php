@@ -22,10 +22,10 @@ declare(strict_types=1);
                     About us
                 </span>
                 <h1>
-                    We make protecting your brand feel simple
+                    Empowering Brands, Protecting Assets
                 </h1>
                 <p class="lede">
-                    USA Trademark Expert was built on a simple belief: every founder deserves the same brand protection the big companies get — without the intimidating price tag or the legal jargon.
+                    We simplify federal IP law to help entrepreneurs, small businesses, and growing enterprises secure nationwide ownership and defend what they build.
                 </p>
             </div>
             <div class="col-lg-5">
@@ -90,13 +90,13 @@ declare(strict_types=1);
                     Our story
                 </span>
                 <h2 class="section-title">
-                    Born from a founder's frustration
+                    Pioneering Simplicity in Intellectual Property
                 </h2>
                 <p>
-                    When our founder tried to trademark her first company, she faced a choice between confusing DIY forms and a law firm quoting thousands of dollars. Neither felt right for a small business just getting started.
+                    We search beyond exact matches by reviewing federal databases, state filings, and commercial records to help identify potential conflicts before filing.
                 </p>
                 <p>
-                    So we built the option we wished existed: a guided, transparent process backed by real trademark attorneys, at a price that makes sense. Today, USA Trademark Expert has helped over twelve thousand founders, creators, and growing companies secure the brands they've worked so hard to build.
+                    Our team structures every class description and application detail with care, helping reduce procedural delays and examiner refusals.
                 </p>
                 <a href="trademark-registration.php" class="btn btn-primary btn-icon mt-2">
                     Start your trademark
@@ -108,7 +108,7 @@ declare(strict_types=1);
             </div>
             <div class="col-lg-6">
                 <div class="hero-photo mb-4 reveal" style="aspect-ratio:16/10;">
-                    <img src="assets/photo.php?p=business-handshake&w=900" alt="Business partners shaking hands over a desk" loading="lazy">
+                    <img src="assets/img/usatrademark-old/about/about-hero.png" alt="USA Trademark Expert about section" loading="lazy">
                 </div>
                 <div class="reveal d1">
                     <div class="mini-feature">
@@ -124,10 +124,10 @@ declare(strict_types=1);
                         </span>
                         <div>
                             <h4>
-                                Attorney-backed, always
+                                Deep Search Intelligence
                             </h4>
                             <p>
-                                Licensed trademark attorneys stand behind every filing we review.
+                                We search federal databases, state filings, and commercial markets for potential conflicts before you file.
                             </p>
                         </div>
                     </div>
@@ -140,10 +140,10 @@ declare(strict_types=1);
                         </span>
                         <div>
                             <h4>
-                                Radically transparent
+                                Flawless USPTO Filings
                             </h4>
                             <p>
-                                Flat fees, government costs shown separately, and no upsells you didn't ask for.
+                                Our team reviews class descriptions and application details before submission to help avoid procedural errors.
                             </p>
                         </div>
                     </div>
@@ -158,10 +158,10 @@ declare(strict_types=1);
                         </span>
                         <div>
                             <h4>
-                                Human support
+                                Active Examination Management
                             </h4>
                             <p>
-                                Real specialists you can call — not a chatbot maze.
+                                When examiners raise questions or refusals, we help prepare responses and address application issues.
                             </p>
                         </div>
                     </div>
@@ -174,10 +174,10 @@ declare(strict_types=1);
                         </span>
                         <div>
                             <h4>
-                                On your side for the long haul
+                                Proactive Brand Defense
                             </h4>
                             <p>
-                                We monitor and renew so your protection never lapses.
+                                After registration, monitor new filings and marketplace activity to identify potential conflicts.
                             </p>
                         </div>
                     </div>
@@ -199,10 +199,10 @@ declare(strict_types=1);
                     <path d="M9 20h6"/>
                     <path d="M10 16h4"/>
                 </svg>
-                Our values
+                Our services
             </span>
             <h2 class="section-title">
-                What we stand for
+                Core Principles Driving Our Protection
             </h2>
         </div>
         <div class="row g-4">
@@ -219,10 +219,10 @@ declare(strict_types=1);
                         </svg>
                     </div>
                     <h3>
-                        Integrity first
+                        Transparent, Fixed Pricing
                     </h3>
                     <p class="mb-0">
-                        We only recommend what your brand actually needs. If you don't need an upgrade, we'll tell you.
+                        Our clear, fixed-rate packages show the service costs upfront and keep government fees separate.
                     </p>
                 </div>
             </div>
@@ -234,10 +234,10 @@ declare(strict_types=1);
                         </svg>
                     </div>
                     <h3>
-                        Clarity over complexity
+                        Rigorous Pre-Filing Audits
                     </h3>
                     <p class="mb-0">
-                        We translate trademark law into plain language so you can make confident decisions.
+                        Every application, classification choice, and specimen receives a pre-filing review to help avoid preventable errors.
                     </p>
                 </div>
             </div>
@@ -252,10 +252,10 @@ declare(strict_types=1);
                         </svg>
                     </div>
                     <h3>
-                        Founders at heart
+                        Long-Term Brand Partnership
                     </h3>
                     <p class="mb-0">
-                        We remember what it's like to bootstrap. Our pricing and support reflect that.
+                        From office action support to renewal deadline reminders, we help with ongoing trademark administration.
                     </p>
                 </div>
             </div>
@@ -263,6 +263,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- Team -->
+<?php if (false): ?>
 <section class="section">
     <div class="container">
         <div class="text-center mb-5 reveal">
@@ -338,4 +339,5 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <?php render_component('default-cta'); ?>

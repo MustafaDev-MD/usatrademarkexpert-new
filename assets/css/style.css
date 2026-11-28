@@ -1,7 +1,7 @@
 /* ============================================================
    USA Trademark Expert — Trademark Registration Platform
    Design language inspired by LegalZoom (warm, editorial, serif
-   display + Work Sans, orange CTA, teal-charcoal darks, green
+   display + Work Sans, red CTA, deep-purple darks, green
    accents). Original code & branding.
    ============================================================ */
 
@@ -20,35 +20,35 @@
     /* Ink & darks */
     --ms-ink: #252424;
     /* near-black text/headings */
-    --ms-navy: #193138;
-    /* deep teal-charcoal — dark sections/footer */
-    --ms-navy-700: #20424b;
-    --ms-teal: #2A525E;
-    /* secondary teal */
+    --ms-navy: #0B0051;
+    /* primary brand color — dark sections/footer */
+    --ms-navy-700: #21156D;
+    --ms-purple: #0B0051;
+    /* secondary brand surfaces */
     --ms-body: #55524E;
     /* body copy */
     --ms-muted: #6E6D6B;
     /* muted */
     /* Brand accents */
-    --ms-orange: #F45A27;
-    /* primary CTA */
-    --ms-orange-600: #E14A1B;
-    --ms-orange-700: #C63F16;
-    --ms-orange-soft: #FDEDE6;
+    --ms-red: #DC2119;
+    /* accent CTA */
+    --ms-red-600: #C51D16;
+    --ms-red-700: #A91812;
+    --ms-red-soft: #FCE9E8;
     --ms-green: #0F9552;
     /* success / checks */
     --ms-green-soft: #E3F3EA;
-    --ms-teal-soft: #E6EEEF;
+    --ms-purple-soft: #ECEAF5;
     --ms-radius: 16px;
     --ms-radius-sm: 10px;
     --ms-radius-btn: 8px;
     --ms-radius-lg: 24px;
-    --ms-shadow-sm: 0 4px 14px rgba(25, 49, 56, .06);
-    --ms-shadow: 0 16px 40px rgba(25, 49, 56, .10);
-    --ms-shadow-lg: 0 30px 64px rgba(25, 49, 56, .16);
+    --ms-shadow-sm: 0 4px 14px rgba(11, 0, 81, .06);
+    --ms-shadow: 0 16px 40px rgba(11, 0, 81, .10);
+    --ms-shadow-lg: 0 30px 64px rgba(11, 0, 81, .16);
     --ms-head: 'Source Serif 4', Georgia, 'Times New Roman', serif;
     --ms-sans: 'Work Sans', Helvetica, Arial, sans-serif;
-    --bs-primary: #F45A27;
+    --bs-primary: #DC2119;
 }
 
 * {
@@ -87,13 +87,13 @@ h6,
 }
 
 a {
-    color: var(--ms-orange-600);
+    color: var(--ms-red-600);
     text-decoration: none;
     transition: color .2s;
 }
 
 a:hover {
-    color: var(--ms-orange-700);
+    color: var(--ms-red-700);
 }
 
 p {
@@ -101,7 +101,7 @@ p {
 }
 
 ::selection {
-    background: var(--ms-orange);
+    background: var(--ms-red);
     color: #fff;
 }
 
@@ -116,8 +116,8 @@ p {
     font-size: .8rem;
     letter-spacing: .1em;
     text-transform: uppercase;
-    color: var(--ms-teal);
-    background: var(--ms-teal-soft);
+    color: var(--ms-purple);
+    background: var(--ms-purple-soft);
     padding: .4rem .9rem;
     border-radius: 100px;
     margin-bottom: 1.1rem;
@@ -136,11 +136,11 @@ p {
 }
 
 .text-accent {
-    color: var(--ms-orange) !important;
+    color: var(--ms-red) !important;
 }
 
 .text-gradient {
-    color: var(--ms-orange);
+    color: var(--ms-red);
     font-style: italic;
 }
 
@@ -164,7 +164,7 @@ p {
 
 .bg-navy {
     background: var(--ms-navy);
-    color: #cfd8d6;
+    color: #e4e1f2;
 }
 
 .bg-navy h1,
@@ -204,16 +204,16 @@ p {
 }
 
 .btn-primary {
-    background: var(--ms-orange);
+    background: var(--ms-red);
     color: #fff;
-    box-shadow: 0 8px 20px rgba(244, 90, 39, .28);
+    box-shadow: 0 8px 20px rgba(220, 33, 25, .28);
 }
 
 .btn-primary:hover {
-    background: var(--ms-orange-600);
+    background: var(--ms-red-600);
     color: #fff;
     transform: translateY(-1px);
-    box-shadow: 0 12px 26px rgba(244, 90, 39, .36);
+    box-shadow: 0 12px 26px rgba(220, 33, 25, .36);
 }
 
 .btn-accent {
@@ -235,7 +235,7 @@ p {
 
 .btn-light:hover {
     transform: translateY(-1px);
-    color: var(--ms-orange-600);
+    color: var(--ms-red-600);
 }
 
 /* dark pill secondary, LegalZoom-style */
@@ -284,7 +284,7 @@ p {
 }
 
 .ms-nav.scrolled {
-    box-shadow: 0 6px 24px rgba(25, 49, 56, .08);
+    box-shadow: 0 6px 24px rgba(11, 0, 81, .08);
     border-bottom-color: var(--ms-line);
     padding: .55rem 0;
 }
@@ -349,8 +349,8 @@ p {
 
 .ms-nav .navbar-nav .nav-link:hover,
 .ms-nav .navbar-nav .nav-link.active {
-    color: var(--ms-orange-600);
-    background: var(--ms-orange-soft);
+    color: var(--ms-red-600);
+    background: var(--ms-red-soft);
 }
 
 .ms-nav .dropdown-menu {
@@ -389,8 +389,8 @@ p {
     height: 34px;
     flex: none;
     border-radius: 9px;
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange);
+    background: var(--ms-red-soft);
+    color: var(--ms-red);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -423,17 +423,14 @@ p {
    Hero
    ============================================================ */
 
-/* Hero photo already carries a baked-in orange panel on the left and the
-   subject on the right, so instead of veiling it we extend that panel far
-   enough right to cover the copy column, and run the text in white.
-   The overlay uses the darker orange-700 so white body copy clears WCAG AA
-   (white on #F45A27 is only ~3:1). */
+/* The source hero image has a legacy warm panel. A strong brand-red overlay
+   replaces it behind the copy while preserving the photo on the right. */
 
 .hero {
     position: relative;
     padding: clamp(2.5rem, 6vw, 4.5rem) 0 clamp(3rem, 6vw, 5rem);
     overflow: hidden;
-    background: var(--ms-orange) url("../img/trademark-bg-2.png") center right/cover no-repeat;
+    background: var(--ms-red-700) url("../img/trademark-bg-2.png") center right/cover no-repeat;
 }
 
 .hero::before {
@@ -441,7 +438,7 @@ p {
     position: absolute;
     inset: 0;
     pointer-events: none;
-    background: linear-gradient(96deg, rgba(198, 63, 22, .96) 0%, rgba(198, 63, 22, .93) 34%, rgba(206, 70, 26, .72) 50%, rgba(224, 90, 40, .24) 62%, transparent 74%);
+    background: linear-gradient(96deg, rgba(169, 24, 18, .99) 0%, rgba(169, 24, 18, .98) 38%, rgba(169, 24, 18, .94) 50%, rgba(169, 24, 18, .78) 58%, rgba(169, 24, 18, .35) 68%, transparent 76%);
 }
 
 .hero>.container {
@@ -449,7 +446,7 @@ p {
     z-index: 1;
 }
 
-/* Copy runs light against the orange panel. */
+/* Copy runs light against the red panel. */
 
 .hero h1,
 .hero .hero-lede,
@@ -462,7 +459,7 @@ p {
 }
 
 .hero .text-gradient {
-    color: #FFD9C9;
+    color: #D9D4F2;
     -webkit-text-fill-color: currentColor;
     background: none;
 }
@@ -489,17 +486,17 @@ p {
     color: #fff;
 }
 
-/* Orange-on-orange would vanish: the primary CTA inverts to white. */
+/* The primary CTA inverts to white against the hero panel. */
 
 .hero .btn-primary {
     background: #fff;
-    color: var(--ms-orange-700);
+    color: var(--ms-red-700);
     border-color: #fff;
 }
 
 .hero .btn-primary:hover {
-    background: #FFF1EA;
-    color: var(--ms-orange-700);
+    background: #FCE9E8;
+    color: var(--ms-red-700);
 }
 
 .hero .btn-outline-navy {
@@ -518,7 +515,7 @@ p {
     /* Stacked layout: the subject sits behind the copy, so the panel covers
      the whole hero rather than fading out mid-width. */
     .hero::before {
-        background: linear-gradient(rgba(198, 63, 22, .95), rgba(198, 63, 22, .9));
+        background: linear-gradient(rgba(169, 24, 18, .96), rgba(169, 24, 18, .92));
     }
 }
 
@@ -617,7 +614,7 @@ p {
     box-shadow: var(--ms-shadow-lg);
     position: relative;
     aspect-ratio: 4/4.4;
-    background: linear-gradient(135deg, #dfe7e6, #cdd8d7);
+    background: linear-gradient(135deg, #e8e6f1, #d9d6e8);
 }
 
 .hero-photo img {
@@ -675,8 +672,8 @@ p {
     justify-content: center;
     font-family: var(--ms-head);
     font-weight: 700;
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange);
+    background: var(--ms-red-soft);
+    color: var(--ms-red);
 }
 
 .hc-step.done .num {
@@ -911,8 +908,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange);
+    background: var(--ms-red-soft);
+    color: var(--ms-red);
     margin-bottom: 1.2rem;
 }
 
@@ -941,7 +938,7 @@ p {
     display: inline-flex;
     align-items: center;
     gap: .4rem;
-    color: var(--ms-orange-600);
+    color: var(--ms-red-600);
 }
 
 .card-link svg {
@@ -984,8 +981,8 @@ p {
 /* crosslist — muted "x" markers for exclusions / pitfalls */
 
 .ticklist.crosslist li::before {
-    background: var(--ms-orange-soft);
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='13' height='13' viewBox='0 0 24 24' fill='none' stroke='%23E14A1B' stroke-width='3.2' stroke-linecap='round'%3E%3Cline x1='18' y1='6' x2='6' y2='18'/%3E%3Cline x1='6' y1='6' x2='18' y2='18'/%3E%3C/svg%3E");
+    background: var(--ms-red-soft);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='13' height='13' viewBox='0 0 24 24' fill='none' stroke='%23C51D16' stroke-width='3.2' stroke-linecap='round'%3E%3Cline x1='18' y1='6' x2='6' y2='18'/%3E%3Cline x1='6' y1='6' x2='18' y2='18'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -1016,8 +1013,8 @@ p {
     font-weight: 700;
     font-size: 1.35rem;
     color: #fff;
-    background: var(--ms-orange);
-    box-shadow: 0 10px 22px rgba(244, 90, 39, .28);
+    background: var(--ms-red);
+    box-shadow: 0 10px 22px rgba(220, 33, 25, .28);
     position: relative;
     z-index: 2;
 }
@@ -1088,8 +1085,8 @@ p {
     height: 48px;
     flex: none;
     border-radius: 13px;
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange);
+    background: var(--ms-red-soft);
+    color: var(--ms-red);
     font-family: var(--ms-head);
     font-weight: 700;
     font-size: 1.15rem;
@@ -1133,7 +1130,7 @@ p {
     content: "";
     position: absolute;
     inset: 0;
-    background: radial-gradient(600px 240px at 85% 0%, rgba(42, 82, 94, .6), transparent 60%);
+    background: radial-gradient(600px 240px at 85% 0%, rgba(33, 21, 109, .6), transparent 60%);
     pointer-events: none;
 }
 
@@ -1153,7 +1150,7 @@ p {
 }
 
 .stat-lbl {
-    color: #a9bcbb;
+    color: #d9d6e8;
     font-size: .95rem;
     margin-top: .4rem;
 }
@@ -1181,8 +1178,8 @@ p {
     height: 48px;
     flex: none;
     border-radius: 12px;
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange);
+    background: var(--ms-red-soft);
+    color: var(--ms-red);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1222,7 +1219,7 @@ p {
 }
 
 .price-card.featured {
-    border: 2px solid var(--ms-orange);
+    border: 2px solid var(--ms-red);
     box-shadow: var(--ms-shadow-lg);
 }
 
@@ -1232,7 +1229,7 @@ p {
     top: -14px;
     left: 50%;
     transform: translateX(-50%);
-    background: var(--ms-orange);
+    background: var(--ms-red);
     color: #fff;
     font-family: var(--ms-sans);
     font-weight: 600;
@@ -1240,7 +1237,7 @@ p {
     padding: .35rem 1rem;
     border-radius: 100px;
     letter-spacing: .02em;
-    box-shadow: 0 8px 18px rgba(244, 90, 39, .32);
+    box-shadow: 0 8px 18px rgba(220, 33, 25, .32);
 }
 
 .price-name {
@@ -1506,7 +1503,7 @@ p {
     font-family: var(--ms-head);
     font-weight: 700;
     color: #fff;
-    background: var(--ms-teal);
+    background: var(--ms-purple);
 }
 
 .tst-name {
@@ -1545,8 +1542,8 @@ p {
 }
 
 .accordion-ms .accordion-button:not(.collapsed) {
-    color: var(--ms-orange-600);
-    background: var(--ms-orange-soft);
+    color: var(--ms-red-600);
+    background: var(--ms-red-soft);
     box-shadow: none;
 }
 
@@ -1582,7 +1579,7 @@ p {
     content: "";
     position: absolute;
     inset: 0;
-    background: radial-gradient(700px 300px at 20% 120%, rgba(42, 82, 94, .55), transparent 60%), radial-gradient(600px 260px at 90% -20%, rgba(244, 90, 39, .25), transparent 60%);
+    background: radial-gradient(700px 300px at 20% 120%, rgba(33, 21, 109, .55), transparent 60%), radial-gradient(600px 260px at 90% -20%, rgba(220, 33, 25, .25), transparent 60%);
 }
 
 .cta-band>* {
@@ -1596,7 +1593,7 @@ p {
 }
 
 .cta-band p {
-    color: #c3d0cf;
+    color: #e4e1f2;
     font-size: 1.12rem;
     max-width: 560px;
     margin: 0 auto 1.8rem;
@@ -1623,7 +1620,7 @@ p {
 }
 
 .breadcrumb-ms a:hover {
-    color: var(--ms-orange-600);
+    color: var(--ms-red-600);
 }
 
 .page-hero h1 {
@@ -1670,8 +1667,8 @@ p {
 
 .form-control:focus,
 .form-select:focus {
-    border-color: var(--ms-orange);
-    box-shadow: 0 0 0 4px rgba(244, 90, 39, .12);
+    border-color: var(--ms-red);
+    box-shadow: 0 0 0 4px rgba(220, 33, 25, .12);
 }
 
 .form-control::placeholder {
@@ -1694,8 +1691,8 @@ textarea.form-control {
 }
 
 .form-check-input:checked {
-    background-color: var(--ms-orange);
-    border-color: var(--ms-orange);
+    background-color: var(--ms-red);
+    border-color: var(--ms-red);
 }
 
 .form-note {
@@ -1726,7 +1723,7 @@ textarea.form-control {
 
 .stepper .sp.active .bar,
 .stepper .sp.done .bar {
-    background: var(--ms-orange);
+    background: var(--ms-red);
 }
 
 .stepper .sp .lbl {
@@ -1775,8 +1772,8 @@ textarea.form-control {
    ============================================================ */
 
 .badge-soft {
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange-600);
+    background: var(--ms-red-soft);
+    color: var(--ms-red-600);
     font-family: var(--ms-sans);
     font-weight: 600;
     font-size: .78rem;
@@ -1804,8 +1801,8 @@ textarea.form-control {
     width: 44px;
     height: 44px;
     border-radius: 12px;
-    background: var(--ms-orange-soft);
-    color: var(--ms-orange);
+    background: var(--ms-red-soft);
+    color: var(--ms-red);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1893,11 +1890,11 @@ textarea.form-control {
 
 .ms-footer {
     background: var(--ms-navy);
-    color: #a3b3b2;
+    color: #d9d6e8;
     padding: 4rem 0 1.6rem;
 }
 
-.ms-footer .foot-brand {
+/* .ms-footer .foot-brand {
     color: #fff;
     font-family: var(--ms-head);
     font-weight: 700;
@@ -1910,10 +1907,21 @@ textarea.form-control {
     padding: .35rem .55rem;
     border-radius: 6px;
     background: #fff;
+} */
+
+.ms-footer .foot-brand {
+    color: rgb(255, 255, 255);
+    font-family: var(--ms-head);
+    font-weight: 700;
+    font-size: 1.3rem;
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    gap: 0.55rem;
 }
 
 .ms-footer p {
-    color: #a3b3b2;
+    color: #d9d6e8;
     font-size: .94rem;
 }
 
@@ -1928,7 +1936,7 @@ textarea.form-control {
 }
 
 .ms-footer .foot-link {
-    color: #a3b3b2;
+    color: #d9d6e8;
     display: block;
     padding: .32rem 0;
     font-size: .94rem;
@@ -1945,7 +1953,7 @@ textarea.form-control {
     height: 38px;
     border-radius: 10px;
     background: rgba(255, 255, 255, .08);
-    color: #cfd8d6;
+    color: #e4e1f2;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1953,7 +1961,7 @@ textarea.form-control {
 }
 
 .ms-footer .soc:hover {
-    background: var(--ms-orange);
+    background: var(--ms-red);
     color: #fff;
     transform: translateY(-2px);
 }
@@ -1963,7 +1971,7 @@ textarea.form-control {
     margin-top: 2.6rem;
     padding-top: 1.4rem;
     font-size: .86rem;
-    color: #8a9998;
+    color: #c9c4e2;
 }
 
 .foot-badges {
@@ -1981,7 +1989,7 @@ textarea.form-control {
     border-radius: 10px;
     padding: .5rem .8rem;
     font-size: .82rem;
-    color: #cfd8d6;
+    color: #e4e1f2;
 }
 
 /* ============================================================
@@ -2041,7 +2049,7 @@ textarea.form-control {
     width: 48px;
     height: 48px;
     border-radius: 50%;
-    background: var(--ms-orange);
+    background: var(--ms-red);
     color: #fff;
     border: none;
     box-shadow: var(--ms-shadow);
@@ -2062,7 +2070,7 @@ textarea.form-control {
 }
 
 #toTop:hover {
-    background: var(--ms-orange-600);
+    background: var(--ms-red-600);
 }
 
 #toTop svg {

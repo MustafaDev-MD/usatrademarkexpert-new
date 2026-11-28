@@ -1,6 +1,7 @@
 <?php
 declare(strict_types=1);
 ?>
+<?php /* No matching international-registration page exists in the old site; preserve its markup as inactive PHP. */ if (false): ?>
 
 <section class="page-hero">
     <div class="container">
@@ -78,7 +79,7 @@ declare(strict_types=1);
                             <path d="M13 6l6 6-6 6"/>
                         </svg>
                     </a>
-                    <a href="pricing.php" class="btn btn-outline-navy btn-lg">
+                    <a href="index.php#pricing" class="btn btn-outline-navy btn-lg">
                         See pricing
                     </a>
                 </div>
@@ -349,7 +350,7 @@ declare(strict_types=1);
                 </ul>
             </div>
             <div class="col-lg-6">
-                <div class="stat-band reveal d1" style="background:linear-gradient(160deg,rgba(25,49,56,.94),rgba(25,49,56,.80)),url('assets/photo.php?p=law-building&w=1000') center/cover;">
+                <div class="stat-band reveal d1" style="background:linear-gradient(160deg,rgba(11,0,81,.94),rgba(11,0,81,.80)),url('assets/photo.php?p=law-building&w=1000') center/cover;">
                     <div class="row g-4">
                         <div class="col-6">
                             <div class="stat">
@@ -428,7 +429,7 @@ declare(strict_types=1);
                 </ul>
             </div>
             <div class="col-lg-7">
-                <form class="form-shell" method="POST" action="https://www.trademarkprofs.com/crm/include/steps_new/lead.php">
+                <form class="form-shell" method="POST" action="https://www.usatrademarkexpert.com/crm/include/steps_new/lead.php">
                     <div class="form-body">
                         <div class="row g-3">
                             <div class="col-md-6">
@@ -613,4 +614,4 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php endif; ?>

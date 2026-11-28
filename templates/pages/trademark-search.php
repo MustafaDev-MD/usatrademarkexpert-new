@@ -24,10 +24,10 @@ declare(strict_types=1);
                     Trademark Search
                 </span>
                 <h1>
-                    Free, Accurate Searches for a Strong Brand Foundation!
+                    Free Trademark Search
                 </h1>
                 <p class="lede">
-                    Find out if your brand is available by using our free trademark search tool.
+                    Use this preliminary name search as a starting point, then review possible matches and search limitations before filing.
                 </p>
                 <form id="lookupForm" class="mark-search mt-4" novalidate>
                     <span class="ms-ic">
@@ -44,7 +44,7 @@ declare(strict_types=1);
             </div>
             <div class="col-lg-5">
                 <div class="hero-photo reveal in" style="aspect-ratio:16/13;">
-                    <img src="assets/photo.php?p=writing-notes&w=900" alt="A specialist reviewing trademark search results" loading="eager">
+                    <img src="assets/img/usatrademark-old/hero/expert-trademark-search.webp" alt="USA Trademark Expert trademark search" loading="eager">
                 </div>
             </div>
         </div>
@@ -62,11 +62,11 @@ declare(strict_types=1);
                 Why it matters
             </span>
             <h2 class="section-title">
-                Why You Need to Search Your Trademark
-            </h2>
+                        Understand Your Preliminary Search
+                    </h2>
             <p class="section-lede mx-auto">
-                Performing a trademark search is an essential step to safeguard your business from any possible legal issues that may arise.
-            </p>
+                    Use this name search as a starting point before a broader pre-filing review.
+                </p>
         </div>
         <div class="row g-4">
             <div class="col-md-4">
@@ -140,11 +140,11 @@ declare(strict_types=1);
                 Search packages
             </span>
             <h2 class="section-title">
-                Choose how deep your search should go
-            </h2>
+                        Know the Search Limits
+                    </h2>
             <p class="section-lede mx-auto">
-                Discover our range of packages crafted to suit different budgets, ensuring top-notch quality without compromise.
-            </p>
+                    This preliminary tool requests name matches from a third-party search provider. It is not a comprehensive clearance report and does not establish the right to use or register a mark. Similar sounds, designs, related goods, state records and unregistered uses may require separate research.
+                </p>
         </div>
         <div class="row g-4 align-items-stretch">
             <div class="col-lg-4">
@@ -220,7 +220,7 @@ declare(strict_types=1);
                     <p class="price-desc mt-3 flex-grow-1">
                         The search includes Federal, State, and Common Law databases, as well as international databases covering Canada, the United Kingdom, the European Union, and WIPO.
                     </p>
-                    <a href="international-registration.php" class="btn btn-outline-navy w-100">
+                    <a href="comprehensive-search.php" class="btn btn-outline-navy w-100">
                         View More
                     </a>
                 </div>
@@ -229,6 +229,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Request a free search ============ -->
+<?php if (false): ?>
 <section class="section" id="request">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -370,7 +371,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Testimonials ============ -->
+<?php if (false): ?>
 <section class="section bg-soft">
     <div class="container">
         <div class="text-center mb-5 reveal">
@@ -504,6 +507,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ FAQ ============ -->
 <section class="section">
     <div class="container">
@@ -524,61 +528,61 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#sf0">
-                                Why should I conduct a trademark search before registering my brand?
-                            </button>
+                                    Is this search free?
+                                </button>
                         </h3>
                         <div id="sf0" class="accordion-collapse collapse show" data-bs-parent="#searchFaq">
                             <div class="accordion-body">
-                                A trademark search is essential for identifying existing trademarks that could conflict with yours, ensuring a smooth registration process, and avoiding legal disputes.
-                            </div>
+                                    <p>This preliminary online name search is free. Any paid research or filing support is a separate service.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf1">
-                                Is a free trademark search as reliable as a paid service?
-                            </button>
+                                    Where do the results come from?
+                                </button>
                         </h3>
                         <div id="sf1" class="accordion-collapse collapse " data-bs-parent="#searchFaq">
                             <div class="accordion-body">
-                                Our free trademark search service relies on powerful algorithms and extensive databases to provide reliable preliminary results. However, for comprehensive legal assurance, we strongly recommend consulting with a trademark attorney and conducting a more thorough paid search.
-                            </div>
+                                    <p>Results are supplied by the third-party provider Innova Labs. This interface displays up to five matches; verify the full record and current status through the official USPTO trademark search system.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf2">
-                                Does the free trademark search cover common law trademarks?
-                            </button>
+                                    Does no results mean my name is available?
+                                </button>
                         </h3>
                         <div id="sf2" class="accordion-collapse collapse " data-bs-parent="#searchFaq">
                             <div class="accordion-body">
-                                The service includes common law trademarks in its search parameters, providing a more comprehensive overview of potential conflicts.
-                            </div>
+                                    <p>No. A query may miss similar wording, spelling variations, design marks or records outside the provider coverage. Unregistered rights may also matter.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf3">
-                                Can the free trademark search service guarantee that my chosen trademark is available?
-                            </button>
+                                    What should I do with a similar match?
+                                </button>
                         </h3>
                         <div id="sf3" class="accordion-collapse collapse " data-bs-parent="#searchFaq">
                             <div class="accordion-body">
-                                Although the service provides useful insights, it does not guarantee the availability of your chosen trademark. For legal certainty, it is advisable to consult with a trademark attorney and conduct a thorough search.
-                            </div>
+                                    <p>Review the complete record, goods and services, status and relevant dates. A qualified trademark professional can assess potential conflicts.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf4">
-                                How long does it take to receive results from the free trademark search?
-                            </button>
+                                    What if the search provider is unavailable?
+                                </button>
                         </h3>
                         <div id="sf4" class="accordion-collapse collapse " data-bs-parent="#searchFaq">
                             <div class="accordion-body">
-                                The free trademark search service provides instant preliminary results. For a comprehensive analysis, we recommend exploring our subscription-based services, which may take additional time.
-                            </div>
+                                    <p>Try again later or use the official USPTO trademark search system. A provider error is not a no-results finding.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -587,6 +591,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Closing CTA ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="cta-band reveal">
@@ -606,6 +611,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <script>
 /* The hero lookup fields feed the free-search request form below. */
 (function () {
@@ -618,4 +624,4 @@ declare(strict_types=1);
   });
 })();
 </script>
-<?php render_component('default-cta'); ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>

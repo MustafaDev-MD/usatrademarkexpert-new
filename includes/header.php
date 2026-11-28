@@ -5,7 +5,7 @@ require_once __DIR__ . '/site-config.php';
 $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
 ?>
 <body data-page="<?= site_escape($pageName) ?>">
-    <div class="d-none d-lg-block" style="background:var(--ms-navy);color:#c9d7ee;font-size:.85rem;">
+    <div class="d-none d-lg-block" style="background:#A91812;color:#fff;font-size:.85rem;">
         <div class="container d-flex justify-content-between align-items-center py-2">
             <div class="d-flex align-items-center gap-3">
                 <span class="d-inline-flex align-items-center gap-2">
@@ -13,7 +13,7 @@ $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
                         <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z"/>
                         <path d="M9 12l2 2 4-4"/>
                     </svg>
-                    Attorney-backed filings
+                    Trademark and copyright filing support
                 </span>
                 <span class="opacity-50">
                     |
@@ -22,11 +22,11 @@ $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                         <path d="M12 3l2.6 5.4 5.9.8-4.3 4.1 1 5.9L12 16.9 6.8 19.2l1-5.9L3.5 9.2l5.9-.8z"/>
                     </svg>
-                    Rated 4.9/5 by 12,000+ founders
+                    Online tools and administrative filing support
                 </span>
             </div>
             <div class="d-flex align-items-center gap-3">
-                <a href="tel:+14243672040" class="d-inline-flex align-items-center gap-2" style="color:#c9d7ee;">
+                <a href="tel:+14243672040" class="d-inline-flex align-items-center gap-2" style="color:#e4e1f2;">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                         <path d="M4 4h4l2 5-2.5 1.5a12 12 0 0 0 6 6L15 14l5 2v4a1 1 0 0 1-1 1A16 16 0 0 1 3 5a1 1 0 0 1 1-1z"/>
                     </svg>
@@ -175,6 +175,7 @@ $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
                                     </span>
                                 </a>
                             </li>
+                            <?php if (false): ?>
                             <li>
                                 <a class="dropdown-item" href="international-registration.php">
                                     <span class="di-ic">
@@ -194,6 +195,7 @@ $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
                                     </span>
                                 </a>
                             </li>
+                            <?php endif; ?>
                             <li>
                                 <a class="dropdown-item" href="copyright-registration.php">
                                     <span class="di-ic">
@@ -215,7 +217,7 @@ $activePage = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link<?= in_array($activePage, ['pricing.php'], true) ? ' active' : '' ?>" href="pricing.php">
+                        <a class="nav-link<?= in_array($activePage, ['pricing.php'], true) ? ' active' : '' ?>" href="index.php#pricing">
                             Pricing
                         </a>
                     </li>

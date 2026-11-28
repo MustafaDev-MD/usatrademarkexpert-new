@@ -10,37 +10,37 @@ declare(strict_types=1);
                     <span class="hero-badge">
                         <span class="dot">
                         </span>
-                        America's trusted trademark filer
+                        ATTORNEY-ASSISTED FILING
                     </span>
                     <h1>
-                        Register your trademark,
+                        The Certain Way to Secure
                         <span class="text-gradient">
-                            the right way
+                            Your Brand’s Future
                         </span>
                         .
                     </h1>
                     <p class="hero-lede">
-                        Let an experienced trademark team take care of everything — we perform the search, provide guidance, and prepare and file your application with the USPTO.
+                        USA Trademark Expert provides comprehensive federal protection tailored entirely to your business needs. Our team handles the heavy lifting, guiding you seamlessly through the USPTO registration process so you can secure your name, logo, or slogan with zero confusion.
                     </p>
-                    <p class="hero-price">
+                    <!-- <p class="hero-price">
                         <strong>
                             $35
                         </strong>
                         + federal fees
-                    </p>
+                    </p> -->
                     <div class="hero-cta-row">
                         <a href="trademark-registration.php" class="btn btn-primary btn-lg btn-icon">
-                            Register my trademark
+                            Register My Trademark
                             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                                 <path d="M5 12h14" />
                                 <path d="M13 6l6 6-6 6" />
                             </svg>
                         </a>
-                        <a href="trademark-search.php" class="btn btn-outline-navy btn-lg">
-                            Free trademark search
+                        <a href="about.php" class="btn btn-outline-navy btn-lg">
+                            Learn More
                         </a>
                     </div>
-                    <div class="hero-proof">
+                    <!-- <div class="hero-proof">
                         <div class="d-flex align-items-center gap-2">
                             <span class="stars">
                                 ★★★★★
@@ -63,7 +63,7 @@ declare(strict_types=1);
                                 Accuracy Guarantee
                             </small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-6">
@@ -124,6 +124,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+
 <!-- ================= HOW IT WORKS ================= -->
 <section class="section" id="how">
     <div class="container">
@@ -142,10 +143,10 @@ declare(strict_types=1);
                         How it works
                     </span>
                     <h2 class="section-title">
-                        From idea to registered trademark
+                        Federal Trademark Protection in 3 Simple Steps
                     </h2>
                     <p class="section-lede mb-1">
-                        No legal jargon, no guesswork. We guide you through every step — and stay with you long after your mark is registered.
+                        We have streamlined the complex legal system into an efficient, worry-free online process designed for modern business owners.
                     </p>
                 </div>
                 <div class="howto reveal d1">
@@ -155,10 +156,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Search your mark
+                                Quick Questionnaire
                             </h4>
                             <p>
-                                We run a comprehensive clearance search to make sure your name or logo is available to register.
+                                Choose your package and complete our short online form with your brand details to get started instantly.
                             </p>
                         </div>
                     </div>
@@ -168,10 +169,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                We prepare &amp; review
+                                USPTO Database Search
                             </h4>
                             <p>
-                                A licensed attorney prepares your application and checks it for the issues that get filings rejected.
+                                We search the official USPTO database to check trademark availability and prevent potential conflicts early.
                             </p>
                         </div>
                     </div>
@@ -181,13 +182,14 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                File with the USPTO
+                                Official Application Filing
                             </h4>
                             <p>
                                 We submit your application within 48 hours and give you a dashboard to track every update.
                             </p>
                         </div>
                     </div>
+                    <?php if (false): ?>
                     <div class="howto-step">
                         <div class="howto-num">
                             04
@@ -197,10 +199,11 @@ declare(strict_types=1);
                                 Protect &amp; monitor
                             </h4>
                             <p>
-                                Once registered, we watch for copycats and remind you of every renewal deadline.
+                                We provide guidance through the application process and help you understand the next steps after filing.
                             </p>
                         </div>
                     </div>
+                    <?php endif; ?>
                 </div>
                 <a href="trademark-registration.php" class="btn btn-primary btn-lg btn-icon reveal d2">
                     Begin step one
@@ -247,7 +250,7 @@ declare(strict_types=1);
                                     Application prepared
                                 </span>
                                 <small>
-                                    Reviewed by a licensed attorney
+                                    Application details reviewed before filing
                                 </small>
                             </span>
                         </div>
@@ -293,6 +296,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ================= WHY REGISTER ================= -->
+<!-- <?php if (false): ?> -->
 <section class="section">
     <div class="container">
         <div class="text-center mb-5 reveal">
@@ -417,7 +421,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<!-- <?php endif; ?> -->
 <!-- ================= STATS ================= -->
+<?php if (false): ?>
 <section class="section-tight">
     <div class="container">
         <div class="stat-band reveal">
@@ -476,12 +482,14 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= WHY CHOOSE US ================= -->
+<?php if (false): ?>
 <section class="section" id="why">
     <div class="container">
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 reveal">
-                <div class="feature-media p-4 p-md-5" style="background:linear-gradient(160deg,rgba(25,49,56,.93),rgba(25,49,56,.74)),url('assets/photo.php?p=team-meeting&w=1000') center/cover;">
+                <div class="feature-media p-4 p-md-5" style="background:linear-gradient(160deg,rgba(11,0,81,.68),rgba(11,0,81,.55)),url('assets/img/usatrademark-old/home/browse.png') center/cover;">
                     <div class="guarantee" style="background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.12);">
                         <span class="g-ic">
                             <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -632,6 +640,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= PRICING ================= -->
 <section class="section bg-soft" id="pricing">
     <div class="container">
@@ -648,10 +657,10 @@ declare(strict_types=1);
                 Transparent pricing
             </span>
             <h2 class="section-title">
-                Flat-fee plans, no surprises
+                Trademark Packages for Every Stage
             </h2>
             <p class="section-lede mx-auto">
-                Choose the level of support that fits your brand. Government filing fees (from $350/class) are always shown separately.
+                Choose the level of legal support and filing expertise that matches your business goals.
             </p>
         </div>
         <div class="row g-4 align-items-stretch">
@@ -661,7 +670,7 @@ declare(strict_types=1);
                         Basic Package
                     </div>
                     <p class="price-desc">
-                        Basic trademark search and application preparation support for one brand name, logo, or slogan.
+                        Straightforward filing tools to get your application officially submitted.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -674,26 +683,26 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $35
+                        $49
                     </div>
                     <div class="price-gov">
                         + USPTO filing fees
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Direct-Hit Search
+                                Federal Database Direct-Hit Search
                             </strong>
                             <span>
-                                of the Federal database, which will include misspellings for live and pending applications.
+                                We scan the USPTO registry to check your mark’s availability and flag immediate conflicts.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Professional Preparation
+                                Custom Legal Classification
                             </strong>
                             <span>
-                                of your federal trademark application.
+                                Our team reviews the USPTO ID manual to categorize your goods and services.
                             </span>
                         </li>
                     </ul>
@@ -708,7 +717,7 @@ declare(strict_types=1);
                         Standard Package
                     </div>
                     <p class="price-desc">
-                        Get comprehensive trademark registration solutions.
+                        Step up to dedicated legal guidance and brand enforcement tools.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -721,88 +730,27 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $135
+                        $199
                     </div>
                     <div class="price-gov">
                         + USPTO filing fees
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Direct-Hit Search
+                                1-on-1 Attorney Consultation
                             </strong>
                             <span>
-                                of the Federal database, which will include misspellings for live and pending applications.
+                                Speak with a licensed trademark lawyer in a focused session about your questions and filing strategy.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Professional Preparation
+                                Cease &amp; Desist Safeguards
                             </strong>
                             <span>
-                                of your federal trademark application.
+                                Documents to help you take action against potential brand infringement.
                             </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Digitalization and Formatting
-                            </strong>
-                            <span>
-                                of your trademark specimens and designs.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Electronic Delivery
-                            </strong>
-                            <span>
-                                of your trademark application with no need to wait for mail or dealing with paper files.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Secure Online Account
-                            </strong>
-                            <span>
-                                with a calendar of important dates available to you 24/7 through your online account.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                100% Assessment of the Application
-                            </strong>
-                            <span>
-                                by our team to avoid any loopholes that might cause rejection at the government&rsquo;s office.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Cease and Desist Letter
-                            </strong>
-                            <span>
-                                A customized form that can be used if someone is infringing on your mark.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Transfer and Assignment Letter
-                            </strong>
-                            <span>
-                                If you need to sell or otherwise convey your mark, you have access to your template that you can further customize to your needs.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                1 Month of Trademark Monitoring
-                            </strong>
-                            <span>
-                                service to notify you of possible infringers of your trademark ($88 value).
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                24/7 secure online access
-                            </strong>
                         </li>
                     </ul>
                     <a href="trademark-registration.php" class="btn btn-primary w-100">
@@ -813,10 +761,10 @@ declare(strict_types=1);
             <div class="col-lg-4">
                 <div class="price-card reveal ">
                     <div class="price-name">
-                        Professional Package
+                        Premium Package
                     </div>
                     <p class="price-desc">
-                        Get your US trademark certified today!
+                        Priority filing support paired with ongoing brand monitoring.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -829,96 +777,35 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $235
+                        $349
                     </div>
                     <div class="price-gov">
                         + USPTO filing fees
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Direct-Hit Search
+                                1-Hour Attorney Session
                             </strong>
                             <span>
-                                of the Federal database, which will include misspellings for live and pending applications.
+                                In-depth planning with a trademark lawyer.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Professional Preparation
+                                48-Hour Priority Processing
                             </strong>
                             <span>
-                                of your federal trademark application.
+                                Priority preparation and submission support for your application.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Digitalization and Formatting
+                                Infringement Alerts
                             </strong>
                             <span>
-                                of your trademark specimens and designs.
+                                Ongoing monitoring to help identify potentially conflicting new filings.
                             </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Electronic Delivery
-                            </strong>
-                            <span>
-                                of your trademark application with no need to wait for mail or dealing with paper files. This will qualify you for the reduced government filing fee.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Secure Online Account
-                            </strong>
-                            <span>
-                                with a calendar of important dates. Your status, documents, and important deadlines will be available to you 24/7 through your online account.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Assessment of the Application
-                            </strong>
-                            <span>
-                                by our team to avoid any loopholes that might cause rejection at the government&rsquo;s office.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Cease and Desist Letter
-                            </strong>
-                            <span>
-                                A customized form that can be used if someone is infringing on your mark.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Transfer and Assignment Letter
-                            </strong>
-                            <span>
-                                If you need to sell or otherwise convey your mark, you have access to your template that you can further customize to your needs.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                1 Year of Trademark Monitoring
-                            </strong>
-                            <span>
-                                service to notify you of possible infringers. The normal price for our monitoring service is $175. You receive a full year for free when choosing our Deluxe package.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                24-hour Expedited Processing
-                            </strong>
-                            <span>
-                                of the preparation of your trademark application. Normal processing time is 5 business days in our Basic and Standard packages.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                100% Money Back Guarantee
-                            </strong>
                         </li>
                     </ul>
                     <a href="trademark-registration.php" class="btn btn-outline-navy w-100">
@@ -929,13 +816,14 @@ declare(strict_types=1);
         </div>
         <p class="text-center mt-4 form-note">
             Need to compare in detail?
-            <a href="pricing.php">
+            <a href="index.php#pricing">
                 See the full pricing breakdown →
             </a>
         </p>
     </div>
 </section>
 <!-- ================= STAND OUT ================= -->
+<?php if (false): ?>
 <section class="section">
     <div class="container">
         <div class="text-center mb-5 reveal">
@@ -1113,7 +1001,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= SERVICES ================= -->
+<?php if (false): ?>
 <section class="section bg-soft" id="services">
     <div class="container">
         <div class="row align-items-end mb-5">
@@ -1281,7 +1171,8 @@ declare(strict_types=1);
                     </span>
                 </a>
             </div>
-            <div class="col-md-6 col-lg-4">
+            <?php if (false): ?>
+<div class="col-md-6 col-lg-4">
                 <a href="international-registration.php" class="card-ms d-block reveal d1" style="text-decoration:none;">
                     <div class="card-ic">
                         <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -1305,6 +1196,7 @@ declare(strict_types=1);
                     </span>
                 </a>
             </div>
+<?php endif; ?>
             <div class="col-md-6 col-lg-4">
                 <a href="copyright-registration.php" class="card-ms d-block reveal d2" style="text-decoration:none;">
                     <div class="card-ic">
@@ -1331,6 +1223,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= TESTIMONIALS ================= -->
 <section class="section" id="reviews">
     <div class="container">
@@ -1340,17 +1233,19 @@ declare(strict_types=1);
                     <path d="M7 7h4v6a4 4 0 0 1-4 4" />
                     <path d="M15 7h4v6a4 4 0 0 1-4 4" />
                 </svg>
-                Customer stories
+                Service information
             </span>
             <h2 class="section-title">
-                Loved by founders who mean business
+                Understand Your Service Before You Start
             </h2>
         </div>
+        <?php if (false): ?>
         <div class="row g-4 g-lg-5 align-items-center mb-5 reveal">
             <div class="col-lg-5">
                 <div class="hero-photo" style="aspect-ratio:4/3.2;">
                     <img src="assets/photo.php?p=founder-c&w=800" alt="Sofia Lin, USA Trademark Expert customer" loading="lazy">
                 </div>
+
             </div>
             <div class="col-lg-7">
                 <div class="tst-stars" style="font-size:1.25rem;">
@@ -1445,9 +1340,20 @@ declare(strict_types=1);
                 </div>
             </div>
         </div>
+        <?php endif; ?>
+        <div class="row justify-content-center reveal">
+            <div class="col-lg-9">
+                <div class="card-ms">
+                    <h3 class="mb-3">Understand Your Service Before You Start</h3>
+                    <p class="mb-3">USA Trademark Expert provides informational tools and administrative document support. An inquiry or package selection does not create an attorney-client relationship. Confirm any attorney involvement, the provider, and engagement terms separately before relying on legal advice or representation. Government agencies decide whether to approve an application.</p>
+                    <a href="terms.php">Review the service terms</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!-- ================= TRADEMARK VS COPYRIGHT ================= -->
+<?php if (false): ?>
 <section class="section bg-soft">
     <div class="container">
         <div class="text-center mb-5 reveal">
@@ -1541,7 +1447,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= CAN / CAN'T TRADEMARK ================= -->
+<?php if (false): ?>
 <section class="section">
     <div class="container">
         <div class="text-center mb-5 reveal">
@@ -1622,7 +1530,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= WHY REJECTED ================= -->
+<?php if (false): ?>
 <section class="section bg-soft">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -1674,7 +1584,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ================= FAQ ================= -->
+<?php if (false): ?>
 <section class="section bg-soft" id="faq">
     <div class="container">
         <div class="row g-5">
@@ -1768,4 +1680,5 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <?php render_component('default-cta'); ?>

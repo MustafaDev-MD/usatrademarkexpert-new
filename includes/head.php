@@ -15,7 +15,7 @@ require_once __DIR__ . '/site-config.php';
             <?= site_escape($pageTitle) ?>
         </title>
         <meta name="description" content="<?= site_escape($pageDescription) ?>">
-        <meta name="theme-color" content="#193138">
+        <meta name="theme-color" content="<?= site_escape(SITE_THEME_COLOR) ?>">
         <link rel="canonical" href="<?= site_escape($pageCanonical) ?>">
         <meta property="og:type" content="website">
         <meta property="og:title" content="<?= site_escape($pageTitle) ?>">
@@ -29,7 +29,7 @@ require_once __DIR__ . '/site-config.php';
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-        <link href="assets/css/style.css?v=1785796208" rel="stylesheet">
+        <link href="assets/css/style.css?v=20261128-theme-v6" rel="stylesheet">
         <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18184582139">
         </script>
         <script>

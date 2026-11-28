@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 /** Shared site identity and metadata defaults. */
 const SITE_NAME = 'USA Trademark Expert';
-const SITE_THEME_COLOR = '#193138';
+const SITE_THEME_COLOR = '#0B0051';
 
 function site_escape(string|int|float|null $value): string
 {

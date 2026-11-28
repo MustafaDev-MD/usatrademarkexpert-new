@@ -3,12 +3,17 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 pe-lg-5">
                 <a href="index.php" class="foot-brand">
-                    <img src="assets/img/usa-trademark-logo.png" alt="USA Trademark Expert" class="brand-logo brand-logo-foot">
+                    <img src="assets/img/usa-trademark-logo-white.png" alt="USA Trademark Expert" class="brand-logo brand-logo-foot">
                 </a>
                 <p>
-                    Attorney-backed trademark registration, search, monitoring, and renewal — built to make protecting your brand simple and affordable.
+                    <!-- USA Trademark Expert provides software, informational tools, search analysis, document preparation, and administrative filing support. We do not provide legal advice, legal representation, or lawyer referral services. Review the
+                    <a href="terms.php">Terms of Service</a>
+                    and
+                    <a href="privacy-policy.php">Privacy Policy</a>
+                    before using our platform. -->
+                    USA Trademark Expert is dedicated to providing businesses with dependable, efficient, and affordable trademark protection services where quality is our top priority. Please note that USA Trademark Expert offers software and informational tools only—we do not provide legal advice, engage in legal representation, or operate as a "lawyer referral service." Please review our <a href="terms.php">Terms of Service</a> and <a href="privacy-policy.php">Privacy Policy</a> before using our platform.
                 </p>
-                <div class="d-flex gap-2 mt-3">
+                <!-- <div class="d-flex gap-2 mt-3">
                     <a href="#" class="soc" aria-label="LinkedIn">
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                             <path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM.25 8h4.5v12.5H.25zM8 8h4.3v1.7h.06c.6-1.1 2.05-2.25 4.2-2.25 4.5 0 5.34 2.95 5.34 6.8v6.25h-4.5v-5.5c0-1.3-.02-3-1.85-3s-2.13 1.44-2.13 2.9v5.6H8z"/>
@@ -24,7 +29,7 @@
                             <path d="M22 12a10 10 0 1 0-11.6 9.9v-7H8v-2.9h2.4V9.8c0-2.4 1.4-3.7 3.6-3.7 1 0 2.1.2 2.1.2v2.3h-1.2c-1.2 0-1.5.7-1.5 1.5v1.8H16l-.4 2.9h-2.2v7A10 10 0 0 0 22 12z"/>
                         </svg>
                     </a>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-2 col-md-6 col-6">
                 <h6>
@@ -48,9 +53,10 @@
                 <a class="foot-link" href="trademark-renewal.php">
                     Trademark Renewal
                 </a>
+                <?php if (false): ?>
                 <a class="foot-link" href="international-registration.php">
                     International Registration
-                </a>
+                </a><?php endif; ?>
                 <a class="foot-link" href="copyright-registration.php">
                     Copyright Registration
                 </a>
@@ -62,7 +68,7 @@
                 <a class="foot-link" href="about.php">
                     About Us
                 </a>
-                <a class="foot-link" href="pricing.php">
+                <a class="foot-link" href="index.php#pricing">
                     Pricing
                 </a>
                 <a class="foot-link" href="faq.php">
@@ -119,7 +125,7 @@
                             <path d="M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6l7-3z"/>
                             <path d="M9 12l2 2 4-4"/>
                         </svg>
-                        Money-Back Guarantee
+                        Filing Accuracy Guarantee
                     </span>
                 </div>
             </div>

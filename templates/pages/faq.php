@@ -17,10 +17,10 @@ declare(strict_types=1);
             Frequently asked questions
         </span>
         <h1>
-            Everything you want to know
+            Intellectual Property FAQs
         </h1>
         <p class="lede mx-auto">
-            Clear answers about trademarks, our process, and pricing. Can't find yours?
+            Expert guidance on safeguarding your business assets—from brand names and logos to original creative content.
             <a href="contact.php">
                 Ask our team →
             </a>
@@ -95,36 +95,36 @@ declare(strict_types=1);
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q1">
-                                    What is a trademark, exactly?
+                                    What is a trademark?
                                 </button>
                             </h3>
                             <div id="q1" class="accordion-collapse collapse" data-bs-parent="#acc0">
                                 <div class="accordion-body">
-                                    A trademark is a word, phrase, symbol, or design that identifies and distinguishes the source of your goods or services. Registering it federally gives you exclusive nationwide rights to use that mark in your industry.
+                                    <p>A trademark is any word, phrase, symbol, logo, design, or combination thereof that identifies and distinguishes the source of goods of one seller or manufacturer from those of others in the marketplace.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q2">
-                                    What can and can't I trademark?
+                                    Is federal trademark registration required in the United States?
                                 </button>
                             </h3>
                             <div id="q2" class="accordion-collapse collapse" data-bs-parent="#acc0">
                                 <div class="accordion-body">
-                                    You can register brand names, logos, slogans, and product names used in commerce. You generally cannot register generic terms, purely descriptive phrases, deceptive marks, or anything confusingly similar to an existing registration.
+                                    <p>No, federal registration is not strictly mandatory. Simply using a mark in commerce creates limited "common law" rights in your immediate geographic area. However, federal registration with the USPTO provides essential nationwide priority, legal presumption of ownership, and federal court enforcement rights.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q3">
-                                    Do I need a trademark before I launch?
+                                    Can I apply for a trademark before I start selling products or services?
                                 </button>
                             </h3>
                             <div id="q3" class="accordion-collapse collapse" data-bs-parent="#acc0">
                                 <div class="accordion-body">
-                                    It's ideal to search and file early — ownership in the U.S. is tied to use and filing date. Filing an "intent to use" application lets you reserve a mark before you formally launch.
+                                    <p>Yes. You can file an Intent-to-Use (Section 1(b)) application based on a good-faith intention to use the mark in commerce. This reserves your brand name early. You will simply need to submit proof of commercial use (a Statement of Use) before final registration is granted.</p>
                                 </div>
                             </div>
                         </div>
@@ -138,36 +138,44 @@ declare(strict_types=1);
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q4">
-                                    How long does registration take?
+                                    What are the main steps in the federal trademark registration process?
                                 </button>
                             </h3>
                             <div id="q4" class="accordion-collapse collapse" data-bs-parent="#acc1">
                                 <div class="accordion-body">
-                                    On average 8–12 months from filing to registration, depending on USPTO examination and whether an office action is issued. We file within 48 hours of receiving your information.
+
+                                <p>The typical process follows four key stages:</p>
+                                <ul>
+                                    <li>Pre-Filing Clearance Search: Checking USPTO and commercial records for conflicting marks.</li>
+                                    <li>Application Filing: Submitting complete applicant details, mark graphics, and goods/service classes to the USPTO.</li>
+                                    <li>USPTO Examination: Review by an examining attorney for legal and procedural compliance.</li>
+                                    <li>Publication & Registration: Formal 30-day public notice for potential oppositions, followed by official registration issuance.</li>
+                                </ul>
+
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q5">
-                                    What is an office action?
+                                    How long does it take for a trademark application to be approved?
                                 </button>
                             </h3>
                             <div id="q5" class="accordion-collapse collapse" data-bs-parent="#acc1">
                                 <div class="accordion-body">
-                                    An office action is an official letter from the USPTO raising an issue with your application. Many are resolvable — our attorneys can draft a response to overcome the refusal.
+                                    <p>The typical USPTO application timeline takes between 8 to 14 months, depending on examination backlogs, whether an Intent-to-Use basis was selected, and whether the examiner issues an Office Action requiring a response.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q6">
-                                    What happens after I'm registered?
+                                    What is a USPTO Office Action?
                                 </button>
                             </h3>
                             <div id="q6" class="accordion-collapse collapse" data-bs-parent="#acc1">
                                 <div class="accordion-body">
-                                    Your mark must be maintained on a schedule (a declaration at 5–6 years, renewal at 10 years). We track these deadlines and can handle the filings so your registration never lapses.
+                                    <p>An Office Action is an official notification issued by a USPTO examining attorney outlining legal, technical, or procedural deficiencies in your application. Responses must be submitted within strict statutory deadlines to prevent your application from becoming abandoned.</p>
                                 </div>
                             </div>
                         </div>
@@ -181,36 +189,36 @@ declare(strict_types=1);
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q7">
-                                    How much does it cost?
+                                    What is an International Class of goods or services?
                                 </button>
                             </h3>
                             <div id="q7" class="accordion-collapse collapse" data-bs-parent="#acc2">
                                 <div class="accordion-body">
-                                    Our service fees start at $35. The USPTO government fee is separate and starts at $350 per class. We always show both clearly before you pay.
+                                    <p>The USPTO categorizes all products and services into 45 International Classes (Classes 1–34 cover physical goods, while Classes 35–45 cover services). Filing fees and clearance searches are calculated based on the number of classes your brand operates in.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q8">
-                                    What is a "class"?
+                                    Do I need to hire an attorney to file my trademark?
                                 </button>
                             </h3>
                             <div id="q8" class="accordion-collapse collapse" data-bs-parent="#acc2">
                                 <div class="accordion-body">
-                                    The USPTO sorts goods and services into 45 classes. Your government fee applies per class, so the number of classes affects total cost. We help you choose the right ones.
+                                    <p>U.S.-domiciled applicants are not strictly required by law to use an attorney, but working with experienced trademark specialists helps avoid common filing errors, improper class selections, and unexpected Office Action refusals. (Note: Foreign-domiciled applicants are required by USPTO rules to be represented by a U.S.-licensed attorney).</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q9">
-                                    Is the government fee refundable?
+                                    How long does a federal trademark registration last?
                                 </button>
                             </h3>
                             <div id="q9" class="accordion-collapse collapse" data-bs-parent="#acc2">
                                 <div class="accordion-body">
-                                    No. Once an application is filed with the USPTO, the government fee is non-refundable, which is why a proper search beforehand matters so much.
+                                    <p>A federal trademark registration can last indefinitely, provided the mark remains in continuous commercial use and all required USPTO maintenance and renewal filings are submitted on time.</p>
                                 </div>
                             </div>
                         </div>
@@ -224,36 +232,36 @@ declare(strict_types=1);
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q10">
-                                    Does a U.S. trademark protect me abroad?
+                                    Does a U.S. trademark protect my brand in foreign countries?
                                 </button>
                             </h3>
                             <div id="q10" class="accordion-collapse collapse" data-bs-parent="#acc3">
                                 <div class="accordion-body">
-                                    No. Trademark rights are territorial. To protect your brand in other countries you must file there — often through the Madrid Protocol, which we can manage for you.
+                                    <p>No. U.S. trademark registrations are territorial and apply exclusively within the United States and its territories. Protecting your brand internationally requires filing separate registrations in target countries.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q11">
-                                    How do I stop someone from copying my mark?
+                                    Who is responsible for monitoring and enforcing my trademark?
                                 </button>
                             </h3>
                             <div id="q11" class="accordion-collapse collapse" data-bs-parent="#acc3">
                                 <div class="accordion-body">
-                                    Enforcement starts with monitoring. Our watch service alerts you to infringers and conflicting filings, and our attorneys can help you send notices or file oppositions.
+                                    <p>The USPTO approves registrations but does not actively police or enforce your mark. As the owner, you are responsible for monitoring the market for unauthorized infringers and taking legal action to defend your brand rights.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h3 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#q12">
-                                    Do you guarantee my mark will be approved?
+                                    What should I do if someone is infringing on my registered trademark?
                                 </button>
                             </h3>
                             <div id="q12" class="accordion-collapse collapse" data-bs-parent="#acc3">
                                 <div class="accordion-body">
-                                    No provider can guarantee approval because examination is subjective. What we can do is maximize your odds with a thorough search and an attorney-reviewed application.
+                                    <p>You can issue a formal Cease and Desist notice, initiate digital marketplace/DMCA takedown procedures, or pursue civil litigation in federal court to halt unauthorized commercial use and recover monetary damages.</p>
                                 </div>
                             </div>
                         </div>

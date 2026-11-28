@@ -24,10 +24,10 @@ declare(strict_types=1);
                     Trademark Registration
                 </span>
                 <h1>
-                    Get Your Trademark Registered by Professionals
+                    Federal Trademark Registration
                 </h1>
                 <p class="lede">
-                    Registering your trademark grants you legal protection and exclusive rights to prevent others from infringing on your brand.
+                    Protect your brand name, logo, or slogan nationwide with seamless, attorney-assisted USPTO filing.
                 </p>
                 <div class="hero-cta-row mt-4">
                     <a href="#apply" class="btn btn-primary btn-lg btn-icon">
@@ -53,11 +53,12 @@ declare(strict_types=1);
 <!-- ============ Multi-step application ============ -->
 <a id="apply">
 </a>
+<?php if (false): ?>
 <section class="section">
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-7">
-                <form id="regForm" class="form-shell"  action="https://www.trademarkprofs.com/crm/include/steps_new/lead.php" method="POST" novalidate>
+                <form id="regForm" class="form-shell"  action="https://www.usatrademarkexpert.com/crm/include/steps_new/lead.php" method="POST" novalidate>
                     <div class="stepper">
                         <div class="sp active">
                             <div class="bar">
@@ -438,7 +439,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Stats ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="stat-band reveal">
@@ -487,8 +490,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Registration process ============ -->
-<section class="section pt-0">
+<section class="section">
     <div class="container">
         <div class="row g-5 align-items-center">
             <div class="col-lg-6">
@@ -505,11 +509,11 @@ declare(strict_types=1);
                         How it works
                     </span>
                     <h2 class="section-title">
-                        Our Trademark Registration Process
+                        Why Register Your Trademark?
                     </h2>
                     <p class="section-lede mb-1">
-                        Our efficient process registers trademarks and offers legal protection, ensuring peace of mind for your business.
-                    </p>
+                    Securing your brand prevents costly disputes, blocks competitors, and establishes full legal ownership.
+                </p>
                 </div>
                 <div class="howto reveal d1">
                     <div class="howto-step">
@@ -518,10 +522,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Details About Your Trademark
+                                Nationwide Exclusivity
                             </h4>
                             <p>
-                                Please provide us with specific information regarding your trademark, such as the name of your brand, slogan, or logo.
+                                Federal registration gives you exclusive rights to use your mark across the entire country, not just locally.
                             </p>
                         </div>
                     </div>
@@ -531,10 +535,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Search for Availability
+                                Enhanced Legal Power
                             </h4>
                             <p>
-                                After obtaining the required information, we conduct a comprehensive search to ensure its availability.
+                                A registered mark proves ownership in federal court and provides stronger protection against infringement.
                             </p>
                         </div>
                     </div>
@@ -544,10 +548,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Application Preparation
+                                Official Brand Authority
                             </h4>
                             <p>
-                                After verifying the eligibility of your mark, our team will begin the application to initiate the registration process.
+                                Unlocks the official ® symbol, signaling to customers and competitors that your business is fully protected.
                             </p>
                         </div>
                     </div>
@@ -586,20 +590,20 @@ declare(strict_types=1);
                 Pricing plans
             </span>
             <h2 class="section-title">
-                Packages for every stage of your brand
-            </h2>
+                    Clear Packages, Complete Protection
+                </h2>
             <p class="section-lede mx-auto">
-                Discover our range of packages crafted to suit different budgets, ensuring top-notch quality without compromise.
-            </p>
+                    Choose the level of legal support and filing expertise that matches your business goals.
+                </p>
         </div>
         <div class="row g-4 align-items-stretch">
             <div class="col-lg-4">
                 <div class="price-card reveal ">
                     <div class="price-name">
-                        Basic
+                        Basic Package
                     </div>
                     <p class="price-desc">
-                        Everything you need to get your mark on file.
+                        Straightforward filing tools to get your application officially submitted.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -612,34 +616,26 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $35
+                        $49
                     </div>
                     <div class="price-gov">
                         + $350 gov. fee per class
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Direct-Hit Search
+                                Federal Database Direct-Hit Search
                             </strong>
                             <span>
-                                The federal database provides exact matches for live and pending applications.
+                                We scan the USPTO registry to check your mark’s availability and flag immediate conflicts.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Secure Online Account
+                                Custom Legal Classification
                             </strong>
                             <span>
-                                Your status, documents, and crucial deadlines will be conveniently accessible 24/7.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Electronic Delivery
-                            </strong>
-                            <span>
-                                We&rsquo;ll deliver the application to you electronically so it will save you time and delivery costs.
+                                Our team reviews the USPTO ID manual to precisely categorize your goods and services for maximum protection.
                             </span>
                         </li>
                     </ul>
@@ -651,10 +647,10 @@ declare(strict_types=1);
             <div class="col-lg-4">
                 <div class="price-card reveal featured">
                     <div class="price-name">
-                        Standard
+                        Standard Package
                     </div>
                     <p class="price-desc">
-                        Includes the Basic Package, plus enforcement tools.
+                        Step up to dedicated legal guidance and brand enforcement tools.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -667,34 +663,26 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $135
+                        $199
                     </div>
                     <div class="price-gov">
                         + $350 gov. fee per class
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Cease &amp; Desist Letter
+                                1-on-1 Attorney Consultation
                             </strong>
                             <span>
-                                A $35 value, included at no extra cost.
+                                Speak directly with a licensed trademark lawyer in a focused 15-minute session to resolve specific questions and outline your filing strategy.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Transfer/Assignment
+                                Cease &amp; Desist Safeguards
                             </strong>
                             <span>
-                                A $35 value, included at no extra cost.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Trademark Monitoring (10 Days Included)
-                            </strong>
-                            <span>
-                                A subscription to trademark monitoring notifies you of potential infringers.
+                                Enforceable legal documents to act quickly against brand infringement.
                             </span>
                         </li>
                     </ul>
@@ -706,10 +694,10 @@ declare(strict_types=1);
             <div class="col-lg-4">
                 <div class="price-card reveal ">
                     <div class="price-name">
-                        Professional
+                        Premium Package
                     </div>
                     <p class="price-desc">
-                        Includes the Standard Package, plus priority handling.
+                        Priority rush filing paired with continuous brand monitoring.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -722,26 +710,34 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $235
+                        $349
                     </div>
                     <div class="price-gov">
                         + $350 gov. fee per class
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Private Registration
+                                1-Hour Attorney Session
                             </strong>
                             <span>
-                                A $60 value — we can protect your personal information from being publicly displayed.
+                                In-depth legal planning with a trademark lawyer.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                24-hour Expedited Processing
+                                48-Hour Priority Processing
                             </strong>
                             <span>
-                                We will assist you in drafting an application within 24 hours of receiving your order.
+                                Fast-track filing to secure your official USPTO date immediately.
+                            </span>
+                        </li>
+                        <li>
+                            <strong>
+                                Infringement Alerts
+                            </strong>
+                            <span>
+                                Ongoing monitoring to protect your registered mark from copycats.
                             </span>
                         </li>
                     </ul>
@@ -884,7 +880,7 @@ declare(strict_types=1);
         <div class="row g-4 g-lg-5 align-items-center">
             <div class="col-lg-5">
                 <div class="hero-photo reveal" style="aspect-ratio:16/13;">
-                    <img src="assets/photo.php?p=writing-notes&w=900" alt="A researcher reviewing trademark search results" loading="lazy">
+                    <img src="assets/img/usatrademark-old/services/extension.webp" alt="A researcher reviewing trademark search results" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -897,11 +893,11 @@ declare(strict_types=1);
                         Trademark search
                     </span>
                     <h2 class="section-title">
-                        Why Do You Need to Search Your Trademark?
+                        Why Search First?
                     </h2>
                     <p class="section-lede mb-4">
-                        It ensures that your trademark doesn&rsquo;t infringe on someone else&rsquo;s, and can also prevent you from using a trademark that is already in use.
-                    </p>
+                    Before submitting your official application, verifying that your brand name or logo is truly available is critical. A pre-filing clearance search identifies existing registrations and confusingly similar marks, helping you avoid immediate USPTO rejections, non-refundable government fees, and mandatory rebranding later.
+                </p>
                     <div class="howto mb-0">
                         <div class="howto-step">
                             <div class="howto-num">
@@ -976,8 +972,8 @@ declare(strict_types=1);
                 Client testimonials
             </span>
             <h2 class="section-title">
-                What our clients say
-            </h2>
+                    Loved by Business Owners Across the Country
+                </h2>
         </div>
         <div class="row g-4">
             <div class="col-md-6 col-lg-4">
@@ -986,19 +982,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Incredible team! USA Trademark Expert&rsquo; expert guidance made the trademark registration process a breeze. If you&rsquo;re looking for trademark registration expertise, look no further!”
-                    </p>
+                            The 48-hour rush processing was vital for our product launch. Having an attorney review and submit our application so quickly gave us absolute confidence.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             JS
                         </span>
                         <div>
                             <div class="tst-name">
-                                Jenny Smith
-                            </div>
+                            C. Lopez
+                        </div>
                             <div class="tst-role">
-                                CEO of Diversion
-                            </div>
+                            E-Commerce Director
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1009,19 +1005,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “We were worried about trademark infringements, and that&rsquo;s when we stumbled upon USA Trademark Expert. Their thorough examination helped us find potential conflicts. I couldn&rsquo;t be happier!”
-                    </p>
+                            Our brand spanned two tricky trademark classes. The legal support team handled the custom classification flawlessly, making the USPTO process completely seamless.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             SB
                         </span>
                         <div>
                             <div class="tst-name">
-                                Simon Blake
-                            </div>
+                            M. Jenkins
+                        </div>
                             <div class="tst-role">
-                                Manager at Pixel City
-                            </div>
+                            Brand Owner
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1032,19 +1028,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert provided an exceptional experience, demonstrating professionalism and expertise throughout the consultation and registration process. Highly recommended!”
-                    </p>
+                            Outstanding legal guidance from start to finish. They answered all my questions about brand exclusivity and secured our official filing date without delay.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             EL
                         </span>
                         <div>
                             <div class="tst-name">
-                                Eleanor Louis
-                            </div>
+                            D. Kim
+                        </div>
                             <div class="tst-role">
-                                Team Lead at Infinite Tech
-                            </div>
+                            Startup Founder
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1055,19 +1051,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert has done an exceptional job! Their team expertly navigated complex regulations, addressing concerns through clear communication and proactive measures for a successful resolution.”
-                    </p>
+                            The 48-hour rush processing was vital for our product launch. Having an attorney review and submit our application so quickly gave us absolute confidence.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             PR
                         </span>
                         <div>
                             <div class="tst-name">
-                                Peter Richard
-                            </div>
+                            C. Lopez
+                        </div>
                             <div class="tst-role">
-                                Owner of Southern Sea
-                            </div>
+                            E-Commerce Director
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1078,19 +1074,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “I had a great experience with USA Trademark Expert. Their timely alerts and comprehensive reports provided valuable insights, allowing proactive protection against potential threats.”
-                    </p>
+                            Our brand spanned two tricky trademark classes. The legal support team handled the custom classification flawlessly, making the USPTO process completely seamless.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             MG
                         </span>
                         <div>
                             <div class="tst-name">
-                                Melissa Gabrielle
-                            </div>
+                            M. Jenkins
+                        </div>
                             <div class="tst-role">
-                                CEO of Hive Studio
-                            </div>
+                            Brand Owner
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1101,19 +1097,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert has been a game-changer for our business. Their expertise and guidance have helped us navigate the complex world of trademark registration with ease. We highly recommend their services to anyone looking to protect their brand.”
-                    </p>
+                            Outstanding legal guidance from start to finish. They answered all my questions about brand exclusivity and secured our official filing date without delay.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             DT
                         </span>
                         <div>
                             <div class="tst-name">
-                                David Thompson
-                            </div>
+                            D. Kim
+                        </div>
                             <div class="tst-role">
-                                Founder of Bright Ideas
-                            </div>
+                            Startup Founder
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1141,61 +1137,61 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#rf0">
-                                What is the significance of trademark registration?
-                            </button>
+                                    What is a federal trademark and how does it protect my business?
+                                </button>
                         </h3>
                         <div id="rf0" class="accordion-collapse collapse show" data-bs-parent="#regFaq">
                             <div class="accordion-body">
-                                Trademark registration is essential to protect your goods or services by granting legal rights to use a unique mark and preventing unauthorized use by others.
-                            </div>
+                                    <p>A trademark is an exclusive legal identifier—such as a word, phrase, logo, or symbol—that distinguishes your goods or services from competitors. Registering your mark with the USPTO grants you nationwide legal presumption of ownership, deters potential copycats, and gives you the right to display the official ® symbol alongside your brand.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rf1">
-                                Do I need a professional service or can I do it myself?
-                            </button>
+                                    What is a "common law" trademark vs. federal registration?
+                                </button>
                         </h3>
                         <div id="rf1" class="accordion-collapse collapse " data-bs-parent="#regFaq">
                             <div class="accordion-body">
-                                While it is possible to register yourself, it is highly recommended to seek professional services to navigate legal complexities.
-                            </div>
+                                    <p>Common law rights are established automatically simply by using a brand name in commerce, but they only apply to your local geographic area. Federal USPTO registration expands your protection nationwide across all 50 states, preventing competitors anywhere in the country from using or registering a confusingly similar mark.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rf2">
-                                What happens if my trademark application receives an office action?
-                            </button>
+                                    Should I trademark my brand name, my custom logo, or both?
+                                </button>
                         </h3>
                         <div id="rf2" class="accordion-collapse collapse " data-bs-parent="#regFaq">
                             <div class="accordion-body">
-                                Our experts provide comprehensive responses to regulatory queries, increasing the chances of successful registration.
-                            </div>
+                                    <p>Trademarking your name provides the broadest overall protection because it shields your word mark regardless of font, color, or design changes. Registering your logo locks down your specific visual graphics and styling. While securing both offers total coverage, starting with your brand name usually establishes the strongest legal foundation.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rf3">
-                                Can I trademark a logo with multiple elements?
-                            </button>
+                                    I already own my domain name and social media handles—do I still need a trademark?
+                                </button>
                         </h3>
                         <div id="rf3" class="accordion-collapse collapse " data-bs-parent="#regFaq">
                             <div class="accordion-body">
-                                Our team can assist with trademarking logos that have multiple elements.
-                            </div>
+                                    <p>Yes. Purchasing a domain name or securing social handles does not grant legal trademark rights. A third party holding a registered federal trademark can legally force you to surrender a domain or change your business name if they prove it creates consumer confusion in the marketplace.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rf4">
-                                What rights do I have if someone infringes on my registered trademark?
-                            </button>
+                                    Can I trademark a tagline or marketing slogan?
+                                </button>
                         </h3>
                         <div id="rf4" class="accordion-collapse collapse " data-bs-parent="#regFaq">
                             <div class="accordion-body">
-                                Trademark holders have the right to take legal action for infringement, seeking damages and injunctive relief.
-                            </div>
+                                    <p>Absolutely. As long as your slogan is creative, distinctive, and actively used to promote your goods or services, it can be federally registered. Generic phrases cannot be trademarked, but unique taglines that consumers associate directly with your brand qualify for full protection.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -1212,4 +1208,4 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>

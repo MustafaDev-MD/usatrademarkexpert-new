@@ -26,10 +26,10 @@ declare(strict_types=1);
                     Trademark Renewal
                 </span>
                 <h1>
-                    Keep Your Trademark Alive with On-Time Renewals
+                    Federal Trademark Renewal Services
                 </h1>
                 <p class="lede">
-                    A registered trademark must be maintained on a strict USPTO schedule. We track every deadline and handle the filings, so your rights never quietly expire.
+                    Maintain registered rights and protect your brand with Section 8 and Section 9 filing support.
                 </p>
                 <div class="hero-cta-row mt-4">
                     <a href="#request" class="btn btn-primary btn-lg btn-icon">
@@ -71,6 +71,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Stats ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="stat-band reveal">
@@ -119,8 +120,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Renewal process ============ -->
-<section class="section pt-0">
+<section class="section">
     <div class="container">
         <div class="row g-5 align-items-center">
             <div class="col-lg-6">
@@ -137,11 +139,11 @@ declare(strict_types=1);
                         The process
                     </span>
                     <h2 class="section-title">
-                        Our Trademark Renewal Process
+                        Why Is Timely Renewal Critical?
                     </h2>
                     <p class="section-lede mb-1">
-                        From the 5-year declaration to the 10-year renewal, we keep your registration in force.
-                    </p>
+                    Federal trademark rights last indefinitely, but only if required maintenance filings are submitted on schedule.
+                </p>
                 </div>
                 <div class="howto reveal d1">
                     <div class="howto-step">
@@ -150,10 +152,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                Add Your Registration
+                                Prevent Cancellation
                             </h4>
                             <p>
-                                Give us your registration number and we pull every upcoming deadline for your mark.
+                                Missing USPTO filing windows causes automatic expiration. Timely renewal ensures protection never lapses.
                             </p>
                         </div>
                     </div>
@@ -163,10 +165,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                We Track the Dates
+                                Preserve Priority Ownership
                             </h4>
                             <p>
-                                Your Section 8, 9, and 15 windows are monitored automatically, with reminders well in advance.
+                                Continuous renewals protect your original filing date, keeping competitors from taking your brand name or logo.
                             </p>
                         </div>
                     </div>
@@ -176,10 +178,10 @@ declare(strict_types=1);
                         </div>
                         <div class="howto-body">
                             <h4>
-                                We Prepare the Filing
+                                Avoid Surcharges &amp; Re-Filing
                             </h4>
                             <p>
-                                When a deadline nears, our team prepares the paperwork and the specimens proving continued use.
+                                Filing within the primary window saves your business from expensive late fees, penalties, or re-applying from scratch.
                             </p>
                         </div>
                     </div>
@@ -226,11 +228,11 @@ declare(strict_types=1);
                 What you get
             </span>
             <h2 class="section-title">
-                Maintenance Handled, Deadlines Covered
-            </h2>
+                        Why Renewals Are Mandatory
+                    </h2>
             <p class="section-lede mx-auto">
-                The USPTO does not send friendly reminders. We make sure every required filing lands inside its window.
-            </p>
+                    Federal trademark registrations do not automatically stay active forever. To maintain active protection and prevent permanent cancellation, the USPTO strictly requires brand owners to periodically submit official proof of ongoing commercial use between the 5th and 6th years, and every 10 years thereafter.
+                </p>
         </div>
         <div class="row g-4">
             <div class="col-md-6 col-lg-4">
@@ -358,20 +360,20 @@ declare(strict_types=1);
                 Packages
             </span>
             <h2 class="section-title">
-                Affordable Trademark Renewal Pricing Plans
-            </h2>
+                    Clear Packages, Complete Protection
+                </h2>
             <p class="section-lede mx-auto">
-                Deadline tracking is free. You only pay a flat service fee when it is time to file.
-            </p>
+                    Choose the level of legal support and filing expertise that matches your business goals.
+                </p>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-5">
                 <div class="price-card featured reveal">
                     <div class="price-name">
-                        Trademark Renewal
+                        Basic Package
                     </div>
                     <p class="price-desc">
-                        Keep your registration in force with maintenance filings handled end to end.
+                        Straightforward filing tools to get your application officially submitted.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -384,34 +386,26 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $129
+                        $49
                     </div>
                     <div class="price-gov">
                         + USPTO maintenance fee per class
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Free Deadline Tracking
+                                Federal Database Direct-Hit Search
                             </strong>
                             <span>
-                                We monitor your Section 8, 9, and 15 dates at no cost for as long as you hold the mark.
+                                We scan the USPTO registry to check your mark’s availability and flag immediate conflicts.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                Prepared &amp; Filed for You
+                                Custom Legal Classification
                             </strong>
                             <span>
-                                We assemble the declaration, gather your specimens, and submit the filing to the USPTO.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Attorney-Reviewed
-                            </strong>
-                            <span>
-                                A licensed attorney checks every maintenance filing before it is submitted.
+                                Our team reviews the USPTO ID manual to precisely categorize your goods and services for maximum protection.
                             </span>
                         </li>
                     </ul>
@@ -526,61 +520,61 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#rnf0">
-                                What are the key trademark deadlines?
-                            </button>
+                                    How long does a federal trademark registration last?
+                                </button>
                         </h3>
                         <div id="rnf0" class="accordion-collapse collapse show" data-bs-parent="#renFaq">
                             <div class="accordion-body">
-                                Between years 5&ndash;6 you must file a Section 8 declaration of use. Between years 9&ndash;10 (and every 10 years after) you file a combined Section 8 &amp; 9 renewal. Missing these cancels your registration.
-                            </div>
+                                    <p>A federal trademark registration can last indefinitely, provided you file required maintenance documents with the USPTO at specific time intervals and continue using the mark in commerce.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rnf1">
-                                What if I already missed a deadline?
-                            </button>
+                                    When do I need to submit my first trademark maintenance filing?
+                                </button>
                         </h3>
                         <div id="rnf1" class="accordion-collapse collapse " data-bs-parent="#renFaq">
                             <div class="accordion-body">
-                                There is often a six-month grace period with an added fee. Contact us right away — we&rsquo;ll check whether your mark is still recoverable.
-                            </div>
+                                    <p>Your first mandatory filing occurs between the 5th and 6th years after registration. You must submit a Section 8 Declaration of Continued Use proving your brand is still active in the market.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rnf2">
-                                Do you remind me before each deadline?
-                            </button>
+                                    What is the difference between a Section 8 and Section 9 filing?
+                                </button>
                         </h3>
                         <div id="rnf2" class="accordion-collapse collapse " data-bs-parent="#renFaq">
                             <div class="accordion-body">
-                                Yes. We track your dates automatically and send reminders well in advance, then prepare and file everything once you approve.
-                            </div>
+                                    <p>A Section 8 Declaration is a sworn statement confirming continuous commercial use, while a Section 9 Application is a formal request to renew the registration for another 10-year period.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rnf3">
-                                What is a Section 15 declaration?
-                            </button>
+                                    What happens if I miss my renewal deadline?
+                                </button>
                         </h3>
                         <div id="rnf3" class="accordion-collapse collapse " data-bs-parent="#renFaq">
                             <div class="accordion-body">
-                                After five years of continuous use you can file a Section 15 declaration to make your registration incontestable, which greatly strengthens it against challenges.
-                            </div>
+                                    <p>The USPTO provides a 6-month grace period after the deadline, though late filings incur additional government surcharges. If the grace period expires without filing, your registration is permanently canceled.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#rnf4">
-                                Do I need to prove I am still using the mark?
-                            </button>
+                                    What is a Section 15 Declaration of Incontestability?
+                                </button>
                         </h3>
                         <div id="rnf4" class="accordion-collapse collapse " data-bs-parent="#renFaq">
                             <div class="accordion-body">
-                                Yes. Each maintenance filing requires a specimen showing the mark in use in commerce. We help you choose and prepare an acceptable specimen.
-                            </div>
+                                    <p>After 5 consecutive years of active registration, you can file a Section 15 declaration alongside Section 8. This grants your mark "Incontestable" status, making it immune to most third-party legal challenges.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -600,8 +594,8 @@ declare(strict_types=1);
                 Testimonials
             </span>
             <h2 class="section-title">
-                What Our Clients Have to Say
-            </h2>
+                    Trusted Renewal &amp; Maintenance Support
+                </h2>
             <p class="section-lede mx-auto">
                 We are proud to receive positive feedback, which reflects our commitment to excellence.
             </p>
@@ -613,19 +607,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Incredible team! USA Trademark Expert&rsquo; expert guidance made the trademark registration process a breeze. If you&rsquo;re looking for trademark registration expertise, look no further!”
-                    </p>
+                            USA Trademark Expert handled our 5-year Section 8 filing flawlessly. They audited our specimen of use and submitted everything to the USPTO with zero hassle.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             JS
                         </span>
                         <div>
                             <div class="tst-name">
-                                Jenny Smith
-                            </div>
+                            H. Sterling
+                        </div>
                             <div class="tst-role">
-                                CEO of Diversion
-                            </div>
+                            Operations Director
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -636,19 +630,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “We were worried about trademark infringements, and that&rsquo;s when we stumbled upon USA Trademark Expert. Their thorough examination helped us find potential conflicts. I couldn&rsquo;t be happier!”
-                    </p>
+                            We almost missed our 10-year renewal window, but their team flagged it in time, prepared our combined Section 8 &amp; 9 papers, and saved us from major USPTO late penalties.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             SB
                         </span>
                         <div>
                             <div class="tst-name">
-                                Simon Blake
-                            </div>
+                            E. Nygard
+                        </div>
                             <div class="tst-role">
-                                Manager at Pixel City
-                            </div>
+                            Brand Founder
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -659,19 +653,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert provided an exceptional experience, demonstrating professionalism and expertise throughout the consultation and registration process. Highly recommended!”
-                    </p>
+                            Filing our Declaration of Incontestability through them was seamless. Clear guidance on commercial proof and incredibly fast processing from start to finish.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             EL
                         </span>
                         <div>
                             <div class="tst-name">
-                                Eleanor Louis
-                            </div>
+                            A. Patel
+                        </div>
                             <div class="tst-role">
-                                Team Lead at Infinite Tech
-                            </div>
+                            E-Commerce Owner
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -682,19 +676,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert has done an exceptional job! Their team expertly navigated complex regulations, addressing concerns through clear communication and proactive measures for a successful resolution.”
-                    </p>
+                            USA Trademark Expert handled our 5-year Section 8 filing flawlessly. They audited our specimen of use and submitted everything to the USPTO with zero hassle.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             PR
                         </span>
                         <div>
                             <div class="tst-name">
-                                Peter Richard
-                            </div>
+                            H. Sterling
+                        </div>
                             <div class="tst-role">
-                                Owner of Southern Sea
-                            </div>
+                            Operations Director
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -705,19 +699,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “I had a great experience with USA Trademark Expert. Their timely alerts and comprehensive reports provided valuable insights, allowing proactive protection against potential threats.”
-                    </p>
+                            We almost missed our 10-year renewal window, but their team flagged it in time, prepared our combined Section 8 &amp; 9 papers, and saved us from major USPTO late penalties.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             MG
                         </span>
                         <div>
                             <div class="tst-name">
-                                Melissa Gabrielle
-                            </div>
+                            E. Nygard
+                        </div>
                             <div class="tst-role">
-                                CEO of Hive Studio
-                            </div>
+                            Brand Founder
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -726,6 +720,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Request form ============ -->
+<?php if (false): ?>
 <section class="section" id="request">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -871,7 +866,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Closing CTA ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="cta-band reveal">
@@ -891,4 +888,5 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php endif; ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>

@@ -1,6 +1,7 @@
 <?php
 declare(strict_types=1);
 ?>
+<?php /* The old site has pricing on its homepage, not a standalone pricing page. Retain this page as inactive markup. */ if (false): ?>
 
 <section class="page-hero">
     <div class="container text-center">
@@ -25,7 +26,7 @@ declare(strict_types=1);
             Simple, honest pricing
         </h1>
         <p class="lede mx-auto">
-            Flat service fees starting at $35, with no hidden costs. The USPTO government fee (from $350 per class) is always shown separately so you know exactly what you pay.
+            Compare Basic, Standard, and Premium packages. Government charges depend on the filing and classes selected and are separate from service fees.
         </p>
         <div class="d-flex justify-content-center mt-4">
             <div class="bill-toggle">
@@ -61,7 +62,7 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $35
+                        $49
                     </div>
                     <div class="price-gov">
                         + USPTO filing fees
@@ -108,7 +109,7 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $135
+                        $199
                     </div>
                     <div class="price-gov">
                         + USPTO filing fees
@@ -200,7 +201,7 @@ declare(strict_types=1);
             <div class="col-lg-4">
                 <div class="price-card reveal ">
                     <div class="price-name">
-                        Professional Package
+                        Premium Package
                     </div>
                     <p class="price-desc">
                         Get your US trademark certified today!
@@ -216,7 +217,7 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $235
+                        $349
                     </div>
                     <div class="price-gov">
                         + USPTO filing fees
@@ -291,7 +292,7 @@ declare(strict_types=1);
                                 1 Year of Trademark Monitoring
                             </strong>
                             <span>
-                                service to notify you of possible infringers. The normal price for our monitoring service is $175. You receive a full year for free when choosing our Deluxe package.
+                                service to notify you of possible infringers. The ongoing monitoring can help identify potentially conflicting new filings.
                             </span>
                         </li>
                         <li>
@@ -675,20 +676,20 @@ declare(strict_types=1);
                             </strong>
                         </td>
                         <td class="center">
-                            $35
+                            $49
                         </td>
                         <td class="center">
-                            $135
+                            $199
                         </td>
                         <td class="center">
-                            $235
+                            $349
                         </td>
                     </tr>
                 </tbody>
             </table>
         </div>
         <p class="text-center form-note mt-3">
-            All prices are service fees only and exclude the USPTO government filing fee of $350 per class.
+            All prices are service fees only and exclude the USPTO government filing fee of $490 per class.
         </p>
     </div>
 </section>
@@ -844,7 +845,7 @@ declare(strict_types=1);
                         </h3>
                         <div id="pf0" class="accordion-collapse collapse show" data-bs-parent="#priceFaq">
                             <div class="accordion-body">
-                                The USPTO sets its own filing fee (from $350 per class) which goes directly to the government, not to us. We keep it separate so our service fee is fully transparent and you can see exactly where every dollar goes.
+                                The USPTO sets its own filing fee (from $490 per class) which goes directly to the government, not to us. We keep it separate so our service fee is fully transparent and you can see exactly where every dollar goes.
                             </div>
                         </div>
                     </div>
@@ -890,3 +891,4 @@ declare(strict_types=1);
     </div>
 </section>
 <?php render_component('default-cta'); ?>
+<?php endif; ?>

@@ -54,9 +54,9 @@ declare(strict_types=1);
                     <a href="#s6" class="foot-link" style="color:var(--ms-body);padding:.4rem 0;">
                         Data security
                     </a>
-                    <a href="#s7" class="foot-link" style="color:var(--ms-body);padding:.4rem 0;">
+                    <?php if (false): ?><a href="#s7" class="foot-link" style="color:var(--ms-body);padding:.4rem 0;">
                         Updates to this privacy policy
-                    </a>
+                    </a><?php endif; ?>
                     <a href="#s8" class="foot-link" style="color:var(--ms-body);padding:.4rem 0;">
                         Contact us
                     </a>

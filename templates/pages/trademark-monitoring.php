@@ -26,10 +26,10 @@ declare(strict_types=1);
                     Trademark Monitoring
                 </span>
                 <h1>
-                    Detect Infringements with Expert Trademark Monitoring
+                    Continuous Trademark Monitoring
                 </h1>
                 <p class="lede">
-                    Our expert analysts monitor your trademark, protecting it from unauthorized use.
+                    Proactively defend your brand against unauthorized use, potential infringement, and marketplace dilution.
                 </p>
                 <div class="hero-cta-row mt-4">
                     <a href="trademark-registration.php" class="btn btn-primary btn-lg btn-icon">
@@ -70,10 +70,10 @@ declare(strict_types=1);
                     Overview
                 </span>
                 <h2 class="section-title">
-                    Always-on protection for your mark
-                </h2>
+                        Why Monitor Your Brand?
+                    </h2>
                 <p class="section-lede">
-                    As the rate of intellectual property infringement continues to rise, it&rsquo;s essential to proactively monitor and protect your brand&rsquo;s trademarks from unauthorized use. Our trademark monitoring service offers a comprehensive solution that focuses on safeguarding the integrity and exclusivity of your brand&rsquo;s trademark.
+                    Registration is just step one. Continuous monitoring stops competitors from encroaching on your rights.
                 </p>
                 <p class="section-lede mb-0">
                     Our team uses advanced technology and expert analysis to continuously monitor trademark databases, online platforms, social media channels, and global marketplaces. We identify any potential instances of trademark infringement or misuse and report them promptly to you.
@@ -98,20 +98,20 @@ declare(strict_types=1);
                 Packages
             </span>
             <h2 class="section-title">
-                Affordable Trademark Monitoring Pricing Plans
-            </h2>
+                    Clear Packages, Complete Protection
+                </h2>
             <p class="section-lede mx-auto">
-                Discover our range of packages crafted to suit different budgets, ensuring top-notch quality without compromise.
-            </p>
+                    Choose the level of legal support and filing expertise that matches your business goals.
+                </p>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-5">
                 <div class="price-card featured reveal">
                     <div class="price-name">
-                        Trademark Monitoring
+                        Basic Package
                     </div>
                     <p class="price-desc">
-                        Our expert monitoring services can help you identify any trademark infringements.
+                        Straightforward filing tools to get your application officially submitted.
                     </p>
                     <div class="price-badge">
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -124,34 +124,23 @@ declare(strict_types=1);
                         Starting from
                     </div>
                     <div class="price-amt">
-                        $175
-                        <small>
-                            / Quarterly
-                        </small>
+                        $49
                     </div>
-                    <ul class="price-feats">
+                                        <ul class="price-feats">
                         <li>
                             <strong>
-                                Systematic Monitoring
+                                Federal Database Direct-Hit Search
                             </strong>
                             <span>
-                                Our advanced technology helps to closely monitor and identify potential infringements.
+                                We scan the USPTO registry to check your mark’s availability and flag immediate conflicts.
                             </span>
                         </li>
                         <li>
                             <strong>
-                                No Limits on Detections or Takedowns
+                                Custom Legal Classification
                             </strong>
                             <span>
-                                Our monitoring system is designed to be vigilant in identifying and assessing any potential infringement.
-                            </span>
-                        </li>
-                        <li>
-                            <strong>
-                                Monthly Report
-                            </strong>
-                            <span>
-                                We will provide a detailed monthly report that includes all the relevant findings from our monitoring activities.
+                                Our team reviews the USPTO ID manual to precisely categorize your goods and services for maximum protection.
                             </span>
                         </li>
                     </ul>
@@ -177,11 +166,11 @@ declare(strict_types=1);
                 Why it matters
             </span>
             <h2 class="section-title">
-                Why Monitor Your Trademark?
-            </h2>
+                        Why Proactive Surveillance Matters
+                    </h2>
             <p class="section-lede mx-auto">
-                Here&rsquo;s why you must opt for our trademark monitoring services:
-            </p>
+                    The USPTO does not actively police trademark infringement or enforce your legal rights for you. As a brand owner, the burden to monitor federal databases, detect infringing filings, and challenge conflicting mark submissions rests entirely on your shoulders before those applications gain full registration status.
+                </p>
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-9">
@@ -268,61 +257,61 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#mf0">
-                                What is the purpose of trademark monitoring?
-                            </button>
+                                    What is trademark monitoring and why do I need it?
+                                </button>
                         </h3>
                         <div id="mf0" class="accordion-collapse collapse show" data-bs-parent="#monFaq">
                             <div class="accordion-body">
-                                Trademark monitoring proactively protects registered trademarks from potential infringements.
-                            </div>
+                                    <p>Trademark monitoring is the continuous surveillance of government databases and market registries for newly filed names, logos, or slogans that conflict with yours. It allows you to identify and stop potential copycats before their applications gain legal approval.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#mf1">
-                                How does trademark monitoring differ from the initial registration process?
-                            </button>
+                                    Doesn't the USPTO automatically block conflicting trademarks?
+                                </button>
                         </h3>
                         <div id="mf1" class="accordion-collapse collapse " data-bs-parent="#monFaq">
                             <div class="accordion-body">
-                                Monitoring is an ongoing service that proactively detects and addresses potential threats to ensure continued trademark protection.
-                            </div>
+                                    <p>Not always. While USPTO examining attorneys review applications, they may not flag every potential overlap. Brand owners hold the ultimate responsibility to actively monitor, enforce, and defend their own exclusive trademark rights.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#mf2">
-                                What types of potential threats does trademark monitoring detect?
-                            </button>
+                                    How frequently are federal databases scanned for matches?
+                                </button>
                         </h3>
                         <div id="mf2" class="accordion-collapse collapse " data-bs-parent="#monFaq">
                             <div class="accordion-body">
-                                Trademark monitoring identifies and mitigates threats such as identical or similar trademarks, domain name misuse, and unauthorized usage.
-                            </div>
+                                    <p>Our automated tracking system conducts continuous scans across official USPTO registries, evaluating phonetic, visual, and conceptual similarities to your mark as soon as new filings hit the database.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#mf3">
-                                Can trademark monitoring identify potential infringements internationally?
-                            </button>
+                                    What happens when a conflicting application is detected?
+                                </button>
                         </h3>
                         <div id="mf3" class="accordion-collapse collapse " data-bs-parent="#monFaq">
                             <div class="accordion-body">
-                                Our trademark monitoring service provides global insights and alerts for potential threats in various jurisdictions.
-                            </div>
+                                    <p>You receive an immediate alert detailing the competing mark, the applicant's information, and its potential impact on your business. Our support team then outlines the best legal steps to take.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#mf4">
-                                What actions can be taken if a potential infringement is detected?
-                            </button>
+                                    What is a 30-day Opposition Window?
+                                </button>
                         </h3>
                         <div id="mf4" class="accordion-collapse collapse " data-bs-parent="#monFaq">
                             <div class="accordion-body">
-                                Our experts guide appropriate actions upon detection, such as sending cease-and-desist letters, initiating legal proceedings, or negotiating resolutions.
-                            </div>
+                                    <p>Before a trademark is officially registered, the USPTO publishes it in the Official Gazette for 30 days. This window gives existing trademark owners the right to formally oppose and block the registration of conflicting marks.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -342,8 +331,8 @@ declare(strict_types=1);
                 Testimonials
             </span>
             <h2 class="section-title">
-                What Our Clients Have to Say
-            </h2>
+                    Real Protection for Growing Brands
+                </h2>
             <p class="section-lede mx-auto">
                 We are proud to receive positive feedback, which reflects our commitment to excellence.
             </p>
@@ -355,19 +344,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “Incredible team! USA Trademark Expert&rsquo; expert guidance made the trademark registration process a breeze. If you&rsquo;re looking for trademark registration expertise, look no further!”
-                    </p>
+                            The monitoring service flagged a confusingly similar trademark application within days of its submission. We stopped a potential copycat before they could even launch.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             JS
                         </span>
                         <div>
                             <div class="tst-name">
-                                Jenny Smith
-                            </div>
+                            R. Vance
+                        </div>
                             <div class="tst-role">
-                                CEO of Diversion
-                            </div>
+                            Founder &amp; CEO
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -378,19 +367,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “We were worried about trademark infringements, and that&rsquo;s when we stumbled upon USA Trademark Expert. Their thorough examination helped us find potential conflicts. I couldn&rsquo;t be happier!”
-                    </p>
+                            Having USA Trademark Expert monitor our mark gives us complete peace of mind. Their instant alert system keeps our entire product line protected effortlessly.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             SB
                         </span>
                         <div>
                             <div class="tst-name">
-                                Simon Blake
-                            </div>
+                            S. Mehta
+                        </div>
                             <div class="tst-role">
-                                Manager at Pixel City
-                            </div>
+                            Operations Director
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -401,19 +390,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert provided an exceptional experience, demonstrating professionalism and expertise throughout the consultation and registration process. Highly recommended!”
-                    </p>
+                            Essential post-registration service! Receiving regular tracking updates ensures no one quietly encroaches on our established market share.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             EL
                         </span>
                         <div>
                             <div class="tst-name">
-                                Eleanor Louis
-                            </div>
+                            T. Gallagher
+                        </div>
                             <div class="tst-role">
-                                Team Lead at Infinite Tech
-                            </div>
+                            E-Commerce Retailer
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -424,19 +413,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “USA Trademark Expert has done an exceptional job! Their team expertly navigated complex regulations, addressing concerns through clear communication and proactive measures for a successful resolution.”
-                    </p>
+                            The monitoring service flagged a confusingly similar trademark application within days of its submission. We stopped a potential copycat before they could even launch.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             PR
                         </span>
                         <div>
                             <div class="tst-name">
-                                Peter Richard
-                            </div>
+                            R. Vance
+                        </div>
                             <div class="tst-role">
-                                Owner of Southern Sea
-                            </div>
+                            Founder &amp; CEO
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -447,19 +436,19 @@ declare(strict_types=1);
                         ★★★★★
                     </div>
                     <p>
-                        “I had a great experience with USA Trademark Expert. Their timely alerts and comprehensive reports provided valuable insights, allowing proactive protection against potential threats.”
-                    </p>
+                            Having USA Trademark Expert monitor our mark gives us complete peace of mind. Their instant alert system keeps our entire product line protected effortlessly.
+                        </p>
                     <div class="tst-who">
                         <span class="tst-avatar">
                             MG
                         </span>
                         <div>
                             <div class="tst-name">
-                                Melissa Gabrielle
-                            </div>
+                            S. Mehta
+                        </div>
                             <div class="tst-role">
-                                CEO of Hive Studio
-                            </div>
+                            Operations Director
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -468,6 +457,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- ============ Request form ============ -->
+<?php if (false): ?>
 <section class="section bg-soft" id="request">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -613,7 +603,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- ============ Closing CTA ============ -->
+<?php if (false): ?>
 <section class="section pt-0">
     <div class="container">
         <div class="cta-band reveal">
@@ -633,4 +625,5 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php endif; ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>

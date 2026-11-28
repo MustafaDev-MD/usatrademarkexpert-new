@@ -26,13 +26,13 @@ declare(strict_types=1);
                     Office Action Response
                 </span>
                 <h1>
-                    Got an office action?
+                    USPTO Office Action
                     <span class="text-gradient">
-                        Don't panic — respond right
+                        Response
                     </span>
                 </h1>
                 <p class="lede">
-                    An office action is the USPTO asking questions or refusing your mark. It's common and often fixable — but the deadline is strict and the response is technical. Our attorneys draft it for you.
+                    Overcome USPTO refusals and objections to keep your trademark moving toward approval.
                 </p>
                 <div class="d-flex flex-wrap gap-4 mt-3">
                     <span class="d-inline-flex align-items-center gap-2">
@@ -76,7 +76,7 @@ declare(strict_types=1);
                             <path d="M13 6l6 6-6 6"/>
                         </svg>
                     </a>
-                    <a href="pricing.php" class="btn btn-outline-navy btn-lg">
+                    <a href="index.php#pricing" class="btn btn-outline-navy btn-lg">
                         See pricing
                     </a>
                 </div>
@@ -243,8 +243,8 @@ declare(strict_types=1);
                 The process
             </span>
             <h2 class="section-title">
-                How we respond
-            </h2>
+                        Why Is a Structured Response Critical?
+                    </h2>
         </div>
         <div class="row g-4 steps">
             <div class="step-connector">
@@ -258,8 +258,8 @@ declare(strict_types=1);
                         Send us the action
                     </h4>
                     <p class="mb-0">
-                        Upload the USPTO letter and we review it free.
-                    </p>
+                    An Office Action is not a final denial—a prompt, well-reasoned response can successfully overcome USPTO objections.
+                </p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
@@ -305,6 +305,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- Split benefits -->
+<?php if (false): ?>
 <section class="section">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -321,10 +322,10 @@ declare(strict_types=1);
                     Why it matters
                 </span>
                 <h2 class="section-title">
-                    A weak response can end your application
-                </h2>
+                        Overcoming Examiner Refusals
+                    </h2>
                 <p class="section-lede mb-4">
-                    You typically have just three months to respond, and abandoned applications are lost along with the filing fee. A well-argued response is often the difference between refusal and registration.
+                    Receiving an Office Action means the USPTO examining attorney has identified legal obstacles or administrative errors that must be resolved. Submitting a structured legal response allows you to address examiner objections, modify your application details, and defend your brand's right to full registration.
                 </p>
                 <ul class="ticklist">
                     <li>
@@ -342,7 +343,7 @@ declare(strict_types=1);
                 </ul>
             </div>
             <div class="col-lg-6">
-                <div class="stat-band reveal d1" style="background:linear-gradient(160deg,rgba(25,49,56,.94),rgba(25,49,56,.80)),url('assets/photo.php?p=attorney-portrait&w=1000') center/cover;">
+                <div class="stat-band reveal d1" style="background:linear-gradient(160deg,rgba(11,0,81,.94),rgba(11,0,81,.80)),url('assets/photo.php?p=attorney-portrait&w=1000') center/cover;">
                     <div class="row g-4">
                         <div class="col-6">
                             <div class="stat">
@@ -390,7 +391,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- Request form -->
+<?php if (false): ?>
 <section class="section bg-soft" id="request">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -421,7 +424,7 @@ declare(strict_types=1);
                 </ul>
             </div>
             <div class="col-lg-7">
-                <form class="form-shell" method="POST" action="https://www.trademarkprofs.com/crm/include/steps_new/lead.php">
+                <form class="form-shell" method="POST" action="https://www.usatrademarkexpert.com/crm/include/steps_new/lead.php">
                     <div class="form-body">
                         <div class="row g-3">
                             <div class="col-md-6">
@@ -548,6 +551,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- Mini FAQ -->
 <section class="section">
     <div class="container">
@@ -568,37 +572,37 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#sf0">
-                                What is an office action?
-                            </button>
+                                    What is a USPTO Office Action?
+                                </button>
                         </h3>
                         <div id="sf0" class="accordion-collapse collapse show" data-bs-parent="#svcFaq">
                             <div class="accordion-body">
-                                It's an official letter from the USPTO examining attorney raising issues with your application — from minor clarifications to substantive refusals. You must respond by the stated deadline or your application is abandoned.
-                            </div>
+                                    <p>A USPTO Office Action is an official notification issued by an examining attorney detailing legal, technical, or procedural reasons why a trademark application cannot be registered as currently submitted.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf1">
-                                Can every refusal be overcome?
-                            </button>
+                                    What is the difference between a procedural and substantive Office Action?
+                                </button>
                         </h3>
                         <div id="sf1" class="accordion-collapse collapse " data-bs-parent="#svcFaq">
                             <div class="accordion-body">
-                                Not all, but many can. Procedural issues are usually straightforward, and even substantive refusals like likelihood of confusion can often be argued successfully. We'll tell you honestly after our free review.
-                            </div>
+                                    <p>Procedural Office Actions address minor administrative issues—such as adjusting goods/services descriptions or providing a better specimen. Substantive Office Actions involve complex legal refusals, such as likelihood of confusion or descriptiveness.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf2">
-                                How long do I have to respond?
-                            </button>
+                                    How long do I have to respond to an Office Action?
+                                </button>
                         </h3>
                         <div id="sf2" class="accordion-collapse collapse " data-bs-parent="#svcFaq">
                             <div class="accordion-body">
-                                Most office actions carry a three-month deadline, with a possible extension. Don't wait — building a strong response takes time, so send it to us as soon as you receive it.
-                            </div>
+                                    <p>The USPTO strictly enforces a 3-month response window from the date the Office Action is issued. A single 1-month extension can be requested for a fee, but missing the deadline entirely results in abandonment.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -606,4 +610,4 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>

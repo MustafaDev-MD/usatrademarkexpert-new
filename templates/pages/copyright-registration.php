@@ -24,13 +24,13 @@ declare(strict_types=1);
                     Copyright Registration
                 </span>
                 <h1>
-                    Own your creative work —
+                    Federal Copyright
                     <span class="text-gradient">
-                        on the record
+                        Registration
                     </span>
                 </h1>
                 <p class="lede">
-                    Copyright protects the original things you create: writing, art, music, video, photography, and code. Registering it gives you a public record and the power to enforce your rights in federal court.
+                    Secure official ownership records for your creative works, software, and content.
                 </p>
                 <div class="d-flex flex-wrap gap-4 mt-3">
                     <span class="d-inline-flex align-items-center gap-2">
@@ -74,7 +74,7 @@ declare(strict_types=1);
                             <path d="M13 6l6 6-6 6"/>
                         </svg>
                     </a>
-                    <a href="pricing.php" class="btn btn-outline-navy btn-lg">
+                    <a href="index.php#pricing" class="btn btn-outline-navy btn-lg">
                         See pricing
                     </a>
                 </div>
@@ -238,8 +238,8 @@ declare(strict_types=1);
                 The process
             </span>
             <h2 class="section-title">
-                How copyright registration works
-            </h2>
+                        Why Secure Federal Copyright Registration?
+                    </h2>
         </div>
         <div class="row g-4 steps">
             <div class="step-connector">
@@ -253,8 +253,8 @@ declare(strict_types=1);
                         Describe your work
                     </h4>
                     <p class="mb-0">
-                        Tell us what you created and when it was published.
-                    </p>
+                    While copyright exists upon creation, federal registration provides essential legal enforcement power.
+                </p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
@@ -300,6 +300,7 @@ declare(strict_types=1);
     </div>
 </section>
 <!-- Split benefits -->
+<?php if (false): ?>
 <section class="section">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -337,7 +338,7 @@ declare(strict_types=1);
                 </ul>
             </div>
             <div class="col-lg-6">
-                <div class="stat-band reveal d1" style="background:linear-gradient(160deg,rgba(25,49,56,.94),rgba(25,49,56,.80)),url('assets/photo.php?p=writing-notes&w=1000') center/cover;">
+                <div class="stat-band reveal d1" style="background:linear-gradient(160deg,rgba(11,0,81,.94),rgba(11,0,81,.80)),url('assets/photo.php?p=writing-notes&w=1000') center/cover;">
                     <div class="row g-4">
                         <div class="col-6">
                             <div class="stat">
@@ -385,7 +386,9 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- Request form -->
+<?php if (false): ?>
 <section class="section bg-soft" id="request">
     <div class="container">
         <div class="row g-5 align-items-center">
@@ -416,7 +419,7 @@ declare(strict_types=1);
                 </ul>
             </div>
             <div class="col-lg-7">
-                <form class="form-shell" method="POST" action="https://www.trademarkprofs.com/crm/include/steps_new/lead.php">
+                <form class="form-shell" method="POST" action="https://www.usatrademarkexpert.com/crm/include/steps_new/lead.php">
                     <div class="form-body">
                         <div class="row g-3">
                             <div class="col-md-6">
@@ -543,6 +546,7 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
+<?php endif; ?>
 <!-- Mini FAQ -->
 <section class="section">
     <div class="container">
@@ -563,37 +567,37 @@ declare(strict_types=1);
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#sf0">
-                                What is the difference between a trademark and a copyright?
-                            </button>
+                                    What is federal copyright registration?
+                                </button>
                         </h3>
                         <div id="sf0" class="accordion-collapse collapse show" data-bs-parent="#svcFaq">
                             <div class="accordion-body">
-                                A trademark protects brand identifiers — names, logos, and slogans that distinguish your goods or services. A copyright protects original creative works such as writing, art, music, film, and software. Many businesses need both.
-                            </div>
+                                    <p>Federal copyright registration creates an official public record of ownership with the U.S. Copyright Office, granting the creator exclusive legal rights to reproduce, distribute, perform, and display their original work.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf1">
-                                Do I really need to register if copyright is automatic?
-                            </button>
+                                    What types of creative works can be copyrighted?
+                                </button>
                         </h3>
                         <div id="sf1" class="accordion-collapse collapse " data-bs-parent="#svcFaq">
                             <div class="accordion-body">
-                                Yes, if you want to enforce it. Your work is protected on creation, but in the U.S. you generally must register before filing an infringement lawsuit, and timely registration unlocks statutory damages and attorney's fees.
-                            </div>
+                                    <p>Copyright covers original literary works, software source code, visual arts, graphic designs, photography, musical compositions, sound recordings, architectural designs, and dramatic works.</p>
+                                </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h3 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sf2">
-                                What can I register?
-                            </button>
+                                    What is the difference between a trademark and a copyright?
+                                </button>
                         </h3>
                         <div id="sf2" class="accordion-collapse collapse " data-bs-parent="#svcFaq">
                             <div class="accordion-body">
-                                Original works fixed in a tangible form — books, articles, photographs, illustrations, songs, recordings, films, and software, among others. Ideas, titles, and short phrases generally can't be copyrighted.
-                            </div>
+                                    <p>Trademarks protect brand identifiers like logos, business names, and slogans used in commerce. Copyrights protect original creative, artistic, literary, or intellectual expressions fixed in a tangible medium.</p>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -601,4 +605,4 @@ declare(strict_types=1);
         </div>
     </div>
 </section>
-<?php render_component('default-cta'); ?>
+<?php /* Source service pages do not include this extra CTA. */ if (false): render_component('default-cta'); endif; ?>
